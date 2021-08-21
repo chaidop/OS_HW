@@ -1,0 +1,1227 @@
+###-Starting CPU-###
+LONELY 0x560f732b22a0(Init:0)/0/0ms - Switching Process In
+###-Process: (Spawner:1) has been created-###
+In sched_fork
+In wake_up_new_task
+0x560f732b3c70: exp_burst 0.000000, burst 0(Spawner:1)/100/1ms - Switching Process In
+0x560f732b3c70: exp_burst 6666666.666667, burst 10000000(Spawner:1)/100/9ms - Switching Process In
+0x560f732b3c70: exp_burst 15555555.555556, burst 20000000(Spawner:1)/100/19ms - Switching Process In
+0x560f732b3c70: exp_burst 25185185.185185, burst 30000000(Spawner:1)/100/29ms - Switching Process In
+0x560f732b3c70: exp_burst 35061728.395062, burst 40000000(Spawner:1)/100/39ms - Switching Process In
+0x560f732b3c70: exp_burst 45020576.131687, burst 50000000(Spawner:1)/100/49ms - Switching Process In
+0x560f732b3c70: exp_burst 55006858.710562, burst 60000000(Spawner:1)/100/59ms - Switching Process In
+0x560f732b3c70: exp_burst 65002286.236854, burst 70000000(Spawner:1)/100/69ms - Switching Process In
+0x560f732b3c70: exp_burst 75000762.078951, burst 80000000(Spawner:1)/100/79ms - Switching Process In
+0x560f732b3c70: exp_burst 85000254.026317, burst 90000000(Spawner:1)/100/89ms - Switching Process In
+0x560f732b3c70: exp_burst 95000084.675439, burst 100000000(Spawner:1)/100/99ms - Switching Process In
+###-Process: (Spawner:1):(Non-Interactive:2) has been created-###
+In sched_fork
+In wake_up_new_task
+###-Process: (Interactive:3) has been created-###
+In sched_fork
+In wake_up_new_task
+0x560f732b3e60: exp_burst 0.000000, burst 0(Interactive:3)/100/100ms - Switching Process In
+0x560f732b3d50: exp_burst 0.000000, burst 0(Spawner:1):(Non-Interactive:2)/100/109ms - Switching Process In
+0x560f732b3e60: exp_burst 6666666.666667, burst 10000000(Interactive:3)/100/119ms - Switching Process In
+0x560f732b3d50: exp_burst 6666666.666667, burst 10000000(Spawner:1):(Non-Interactive:2)/100/129ms - Switching Process In
+0x560f732b3e60: exp_burst 8888888.888889, burst 10000000(Interactive:3)/100/139ms - Switching Process In
+0x560f732b3d50: exp_burst 8888888.888889, burst 10000000(Spawner:1):(Non-Interactive:2)/100/149ms - Switching Process In
+0x560f732b3e60: exp_burst 9629629.629630, burst 10000000(Interactive:3)/100/159ms - Switching Process In
+0x560f732b3d50: exp_burst 9629629.629630, burst 10000000(Spawner:1):(Non-Interactive:2)/100/169ms - Switching Process In
+0x560f732b3e60: exp_burst 9876543.209877, burst 10000000(Interactive:3)/100/179ms - Switching Process In
+0x560f732b3d50: exp_burst 9876543.209877, burst 10000000(Spawner:1):(Non-Interactive:2)/100/189ms - Switching Process In
+0x560f732b3e60: exp_burst 9958847.736626, burst 10000000(Interactive:3)/100/199ms - Switching Process In
+	(Interactive:3)/100/205ms - Going to Sleep
+0x560f732b3d50: exp_burst 9958847.736626, burst 10000000(Spawner:1):(Non-Interactive:2)/100/206ms - Switching Process In
+0x560f732b3d50: exp_burst 9986282.578875, burst 10000000(Spawner:1):(Non-Interactive:2)/100/209ms - Switching Process In
+0x560f732b3d50: exp_burst 16662094.192958, burst 20000000(Spawner:1):(Non-Interactive:2)/100/219ms - Switching Process In
+0x560f732b3d50: exp_burst 25554031.397653, burst 30000000(Spawner:1):(Non-Interactive:2)/100/229ms - Switching Process In
+0x560f732b3d50: exp_burst 35184677.132551, burst 40000000(Spawner:1):(Non-Interactive:2)/100/239ms - Switching Process In
+0x560f732b3d50: exp_burst 45061559.044184, burst 50000000(Spawner:1):(Non-Interactive:2)/100/249ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Interactive:3)/100/250ms - Waking Up from Sleep
+0x560f732b3e60: exp_burst 3319615.912209, burst 0(Interactive:3)/100/251ms - Switching Process In
+0x560f732b3e60: exp_burst 7773205.304070, burst 10000000(Interactive:3)/100/259ms - Switching Process In
+0x560f732b3e60: exp_burst 15924401.768023, burst 20000000(Interactive:3)/100/269ms - Switching Process In
+0x560f732b3e60: exp_burst 25308133.922674, burst 30000000(Interactive:3)/100/279ms - Switching Process In
+0x560f732b3e60: exp_burst 35102711.307558, burst 40000000(Interactive:3)/100/289ms - Switching Process In
+0x560f732b3e60: exp_burst 45034237.102519, burst 50000000(Interactive:3)/100/299ms - Switching Process In
+0x560f732b3d50: exp_burst 48353853.014728, burst 50000000(Spawner:1):(Non-Interactive:2)/100/309ms - Switching Process In
+0x560f732b3d50: exp_burst 22784617.671576, burst 10000000(Spawner:1):(Non-Interactive:2)/100/319ms - Switching Process In
+###-Process: (Non-Interactive:4) has been created-###
+In sched_fork
+In wake_up_new_task
+0x560f732b3f40: exp_burst 0.000000, burst 0(Non-Interactive:4)/100/324ms - Switching Process In
+0x560f732b3f40: exp_burst 6666666.666667, burst 10000000(Non-Interactive:4)/100/329ms - Switching Process In
+0x560f732b3d50: exp_burst 14261539.223859, burst 10000000(Spawner:1):(Non-Interactive:2)/100/339ms - Switching Process In
+0x560f732b3d50: exp_burst 11420513.074620, burst 10000000(Spawner:1):(Non-Interactive:2)/100/349ms - Switching Process In
+0x560f732b3f40: exp_burst 15555555.555556, burst 20000000(Non-Interactive:4)/100/359ms - Switching Process In
+0x560f732b3f40: exp_burst 11851851.851852, burst 10000000(Non-Interactive:4)/100/369ms - Switching Process In
+0x560f732b3d50: exp_burst 17140171.024873, burst 20000000(Spawner:1):(Non-Interactive:2)/100/379ms - Switching Process In
+0x560f732b3d50: exp_burst 12380057.008291, burst 10000000(Spawner:1):(Non-Interactive:2)/100/389ms - Switching Process In
+0x560f732b3f40: exp_burst 17283950.617284, burst 20000000(Non-Interactive:4)/100/399ms - Switching Process In
+0x560f732b3f40: exp_burst 12427983.539095, burst 10000000(Non-Interactive:4)/100/409ms - Switching Process In
+0x560f732b3d50: exp_burst 17460019.002764, burst 20000000(Spawner:1):(Non-Interactive:2)/100/419ms - Switching Process In
+0x560f732b3d50: exp_burst 12486673.000921, burst 10000000(Spawner:1):(Non-Interactive:2)/100/429ms - Switching Process In
+0x560f732b3f40: exp_burst 17475994.513032, burst 20000000(Non-Interactive:4)/100/439ms - Switching Process In
+0x560f732b3f40: exp_burst 12491998.171011, burst 10000000(Non-Interactive:4)/100/449ms - Switching Process In
+	(Non-Interactive:4)/100/457ms - Going to Sleep
+0x560f732b3d50: exp_burst 17495557.666974, burst 20000000(Spawner:1):(Non-Interactive:2)/100/458ms - Switching Process In
+0x560f732b3d50: exp_burst 12498519.222325, burst 10000000(Spawner:1):(Non-Interactive:2)/100/459ms - Switching Process In
+0x560f732b3d50: exp_burst 17499506.407442, burst 20000000(Spawner:1):(Non-Interactive:2)/100/469ms - Switching Process In
+0x560f732b3d50: exp_burst 25833168.802481, burst 30000000(Spawner:1):(Non-Interactive:2)/100/479ms - Switching Process In
+0x560f732b3d50: exp_burst 35277722.934160, burst 40000000(Spawner:1):(Non-Interactive:2)/100/489ms - Switching Process In
+0x560f732b3d50: exp_burst 45092574.311387, burst 50000000(Spawner:1):(Non-Interactive:2)/100/499ms - Switching Process In
+###-Process: (Interactive:5) has been created-###
+In sched_fork
+In wake_up_new_task
+0x560f732b4020: exp_burst 0.000000, burst 0(Interactive:5)/100/500ms - Switching Process In
+0x560f732b4020: exp_burst 6666666.666667, burst 10000000(Interactive:5)/100/509ms - Switching Process In
+0x560f732b4020: exp_burst 15555555.555556, burst 20000000(Interactive:5)/100/519ms - Switching Process In
+0x560f732b4020: exp_burst 25185185.185185, burst 30000000(Interactive:5)/100/529ms - Switching Process In
+0x560f732b4020: exp_burst 35061728.395062, burst 40000000(Interactive:5)/100/539ms - Switching Process In
+0x560f732b4020: exp_burst 45020576.131687, burst 50000000(Interactive:5)/100/549ms - Switching Process In
+0x560f732b3d50: exp_burst 48364191.437129, burst 50000000(Spawner:1):(Non-Interactive:2)/100/559ms - Switching Process In
+###-Process: (Sleeper:6) has been created-###
+In sched_fork
+In wake_up_new_task
+0x560f732b4100: exp_burst 0.000000, burst 0(Sleeper:6)/100/562ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Non-Interactive:4)/100/565ms - Waking Up from Sleep
+0x560f732b4100: exp_burst 0.000000, burst 0(Sleeper:6)/100/566ms - Switching Process In
+0x560f732b4100: exp_burst 6666666.666667, burst 10000000(Sleeper:6)/100/569ms - Switching Process In
+0x560f732b3f40: exp_burst 10830666.057004, burst 10000000(Non-Interactive:4)/100/579ms - Switching Process In
+0x560f732b3f40: exp_burst 10276888.685668, burst 10000000(Non-Interactive:4)/100/589ms - Switching Process In
+0x560f732b4100: exp_burst 15555555.555556, burst 20000000(Sleeper:6)/100/599ms - Switching Process In
+0x560f732b4100: exp_burst 11851851.851852, burst 10000000(Sleeper:6)/100/609ms - Switching Process In
+0x560f732b3d50: exp_burst 16121397.145710, burst 0(Spawner:1):(Non-Interactive:2)/100/619ms - Switching Process In
+0x560f732b3d50: exp_burst 12040465.715237, burst 10000000(Spawner:1):(Non-Interactive:2)/100/629ms - Switching Process In
+0x560f732b3f40: exp_burst 16758962.895223, burst 20000000(Non-Interactive:4)/100/639ms - Switching Process In
+0x560f732b3f40: exp_burst 12252987.631741, burst 10000000(Non-Interactive:4)/100/649ms - Switching Process In
+0x560f732b4100: exp_burst 17283950.617284, burst 20000000(Sleeper:6)/100/659ms - Switching Process In
+0x560f732b4100: exp_burst 12427983.539095, burst 10000000(Sleeper:6)/100/669ms - Switching Process In
+0x560f732b3d50: exp_burst 17346821.905079, burst 20000000(Spawner:1):(Non-Interactive:2)/100/679ms - Switching Process In
+0x560f732b3d50: exp_burst 12448940.635026, burst 10000000(Spawner:1):(Non-Interactive:2)/100/689ms - Switching Process In
+0x560f732b3f40: exp_burst 17417662.543914, burst 20000000(Non-Interactive:4)/100/699ms - Switching Process In
+0x560f732b3f40: exp_burst 12472554.181305, burst 10000000(Non-Interactive:4)/100/709ms - Switching Process In
+0x560f732b4100: exp_burst 17475994.513032, burst 20000000(Sleeper:6)/100/719ms - Switching Process In
+0x560f732b4100: exp_burst 12491998.171011, burst 10000000(Sleeper:6)/100/729ms - Switching Process In
+0x560f732b3d50: exp_burst 17482980.211675, burst 20000000(Spawner:1):(Non-Interactive:2)/100/739ms - Switching Process In
+0x560f732b3d50: exp_burst 12494326.737225, burst 10000000(Spawner:1):(Non-Interactive:2)/100/749ms - Switching Process In
+0x560f732b3f40: exp_burst 17490851.393768, burst 20000000(Non-Interactive:4)/100/759ms - Switching Process In
+0x560f732b3f40: exp_burst 12496950.464589, burst 10000000(Non-Interactive:4)/100/769ms - Switching Process In
+0x560f732b4100: exp_burst 17497332.723670, burst 20000000(Sleeper:6)/100/779ms - Switching Process In
+0x560f732b4100: exp_burst 12499110.907890, burst 10000000(Sleeper:6)/100/789ms - Switching Process In
+0x560f732b3d50: exp_burst 17498108.912408, burst 20000000(Spawner:1):(Non-Interactive:2)/100/799ms - Switching Process In
+0x560f732b3d50: exp_burst 12499369.637469, burst 10000000(Spawner:1):(Non-Interactive:2)/100/809ms - Switching Process In
+0x560f732b3f40: exp_burst 17498983.488196, burst 20000000(Non-Interactive:4)/100/819ms - Switching Process In
+0x560f732b3f40: exp_burst 12499661.162732, burst 10000000(Non-Interactive:4)/100/829ms - Switching Process In
+0x560f732b4100: exp_burst 17499703.635963, burst 20000000(Sleeper:6)/100/839ms - Switching Process In
+0x560f732b4100: exp_burst 12499901.211988, burst 10000000(Sleeper:6)/100/849ms - Switching Process In
+0x560f732b3d50: exp_burst 17499789.879156, burst 20000000(Spawner:1):(Non-Interactive:2)/100/859ms - Switching Process In
+0x560f732b3d50: exp_burst 12499929.959719, burst 10000000(Spawner:1):(Non-Interactive:2)/100/869ms - Switching Process In
+0x560f732b3f40: exp_burst 17499887.054244, burst 20000000(Non-Interactive:4)/100/879ms - Switching Process In
+0x560f732b3f40: exp_burst 12499962.351415, burst 10000000(Non-Interactive:4)/100/889ms - Switching Process In
+0x560f732b4100: exp_burst 17499967.070663, burst 20000000(Sleeper:6)/100/899ms - Switching Process In
+	(Sleeper:6)/100/908ms - Going to Sleep
+0x560f732b3d50: exp_burst 17499976.653240, burst 20000000(Spawner:1):(Non-Interactive:2)/100/909ms - Switching Process In
+0x560f732b3d50: exp_burst 12499992.217747, burst 10000000(Spawner:1):(Non-Interactive:2)/100/909ms - Switching Process In
+0x560f732b3f40: exp_burst 17499987.450472, burst 20000000(Non-Interactive:4)/100/919ms - Switching Process In
+0x560f732b3f40: exp_burst 12499995.816824, burst 10000000(Non-Interactive:4)/100/929ms - Switching Process In
+0x560f732b3d50: exp_burst 17499997.405916, burst 20000000(Spawner:1):(Non-Interactive:2)/100/939ms - Switching Process In
+0x560f732b3d50: exp_burst 12499999.135305, burst 10000000(Spawner:1):(Non-Interactive:2)/100/949ms - Switching Process In
+0x560f732b3f40: exp_burst 17499998.605608, burst 20000000(Non-Interactive:4)/100/959ms - Switching Process In
+0x560f732b3f40: exp_burst 12499999.535203, burst 10000000(Non-Interactive:4)/100/969ms - Switching Process In
+0x560f732b3d50: exp_burst 17499999.711768, burst 20000000(Spawner:1):(Non-Interactive:2)/100/979ms - Switching Process In
+0x560f732b3d50: exp_burst 12499999.903923, burst 10000000(Spawner:1):(Non-Interactive:2)/100/989ms - Switching Process In
+0x560f732b3f40: exp_burst 17499999.845068, burst 20000000(Non-Interactive:4)/100/999ms - Switching Process In
+0x560f732b3f40: exp_burst 12499999.948356, burst 10000000(Non-Interactive:4)/100/1009ms - Switching Process In
+0x560f732b3d50: exp_burst 17499999.967974, burst 20000000(Spawner:1):(Non-Interactive:2)/100/1019ms - Switching Process In
+0x560f732b3d50: exp_burst 12499999.989325, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1029ms - Switching Process In
+0x560f732b3f40: exp_burst 17499999.982785, burst 20000000(Non-Interactive:4)/100/1039ms - Switching Process In
+0x560f732b3f40: exp_burst 12499999.994262, burst 10000000(Non-Interactive:4)/100/1049ms - Switching Process In
+0x560f732b3d50: exp_burst 17499999.996442, burst 20000000(Spawner:1):(Non-Interactive:2)/100/1059ms - Switching Process In
+0x560f732b3d50: exp_burst 12499999.998814, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1069ms - Switching Process In
+0x560f732b3f40: exp_burst 17499999.998087, burst 20000000(Non-Interactive:4)/100/1079ms - Switching Process In
+0x560f732b3f40: exp_burst 12499999.999362, burst 10000000(Non-Interactive:4)/100/1089ms - Switching Process In
+0x560f732b3d50: exp_burst 17499999.999605, burst 20000000(Spawner:1):(Non-Interactive:2)/100/1099ms - Switching Process In
+0x560f732b3d50: exp_burst 12499999.999868, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1109ms - Switching Process In
+0x560f732b3f40: exp_burst 17499999.999787, burst 20000000(Non-Interactive:4)/100/1119ms - Switching Process In
+0x560f732b3f40: exp_burst 12499999.999929, burst 10000000(Non-Interactive:4)/100/1129ms - Switching Process In
+0x560f732b3d50: exp_burst 17499999.999956, burst 20000000(Spawner:1):(Non-Interactive:2)/100/1139ms - Switching Process In
+0x560f732b3d50: exp_burst 12499999.999985, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1149ms - Switching Process In
+0x560f732b3f40: exp_burst 17499999.999976, burst 20000000(Non-Interactive:4)/100/1159ms - Switching Process In
+	(Non-Interactive:4)/100/1164ms - Going to Sleep
+0x560f732b3d50: exp_burst 17499999.999995, burst 20000000(Spawner:1):(Non-Interactive:2)/100/1165ms - Switching Process In
+0x560f732b3d50: exp_burst 12499999.999998, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1169ms - Switching Process In
+0x560f732b3d50: exp_burst 17499999.999999, burst 20000000(Spawner:1):(Non-Interactive:2)/100/1179ms - Switching Process In
+0x560f732b3d50: exp_burst 25833333.333333, burst 30000000(Spawner:1):(Non-Interactive:2)/100/1189ms - Switching Process In
+0x560f732b3d50: exp_burst 35277777.777778, burst 40000000(Spawner:1):(Non-Interactive:2)/100/1199ms - Switching Process In
+0x560f732b3d50: exp_burst 45092592.592593, burst 50000000(Spawner:1):(Non-Interactive:2)/100/1209ms - Switching Process In
+0x560f732b4020: exp_burst 55006858.710562, burst 60000000(Interactive:5)/100/1219ms - Switching Process In
+0x560f732b4020: exp_burst 25002286.236854, burst 10000000(Interactive:5)/100/1229ms - Switching Process In
+0x560f732b4020: exp_burst 21667428.745618, burst 20000000(Interactive:5)/100/1239ms - Switching Process In
+0x560f732b4020: exp_burst 27222476.248539, burst 30000000(Interactive:5)/100/1249ms - Switching Process In
+0x560f732b4020: exp_burst 35740825.416180, burst 40000000(Interactive:5)/100/1259ms - Switching Process In
+0x560f732b4020: exp_burst 45246941.805393, burst 50000000(Interactive:5)/100/1269ms - Switching Process In
+0x560f732b3e60: exp_burst 55011412.367506, burst 60000000(Interactive:3)/100/1279ms - Switching Process In
+###-Process: (Interactive:3) is going down-###
+0x560f732b3d50: exp_burst 55030864.197531, burst 60000000(Spawner:1):(Non-Interactive:2)/100/1280ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Sleeper:6)/100/1288ms - Waking Up from Sleep
+	(Non-Interactive:4)/100/1288ms - Waking Up from Sleep
+0x560f732b4100: exp_burst 5833322.356888, burst 0(Sleeper:6)/100/1289ms - Switching Process In
+0x560f732b3f40: exp_burst 5833333.333325, burst 0(Non-Interactive:4)/100/1289ms - Switching Process In
+0x560f732b4100: exp_burst 8611107.452296, burst 10000000(Sleeper:6)/100/1299ms - Switching Process In
+0x560f732b3f40: exp_burst 8611111.111108, burst 10000000(Non-Interactive:4)/100/1309ms - Switching Process In
+0x560f732b4100: exp_burst 9537035.817432, burst 10000000(Sleeper:6)/100/1319ms - Switching Process In
+0x560f732b3f40: exp_burst 9537037.037036, burst 10000000(Non-Interactive:4)/100/1329ms - Switching Process In
+0x560f732b4100: exp_burst 9845678.605811, burst 10000000(Sleeper:6)/100/1339ms - Switching Process In
+	(Sleeper:6)/100/1348ms - Going to Sleep
+0x560f732b3f40: exp_burst 9845679.012345, burst 10000000(Non-Interactive:4)/100/1349ms - Switching Process In
+0x560f732b3f40: exp_burst 9948559.670782, burst 10000000(Non-Interactive:4)/100/1349ms - Switching Process In
+0x560f732b3f40: exp_burst 16649519.890261, burst 20000000(Non-Interactive:4)/100/1359ms - Switching Process In
+0x560f732b3d50: exp_burst 18343621.399177, burst 0(Spawner:1):(Non-Interactive:2)/100/1369ms - Switching Process In
+0x560f732b3d50: exp_burst 12781207.133059, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1379ms - Switching Process In
+0x560f732b3d50: exp_burst 17593735.711020, burst 20000000(Spawner:1):(Non-Interactive:2)/100/1389ms - Switching Process In
+0x560f732b3f40: exp_burst 25549839.963420, burst 30000000(Non-Interactive:4)/100/1399ms - Switching Process In
+0x560f732b3f40: exp_burst 15183279.987807, burst 10000000(Non-Interactive:4)/100/1409ms - Switching Process In
+0x560f732b3f40: exp_burst 18394426.662602, burst 20000000(Non-Interactive:4)/100/1419ms - Switching Process In
+0x560f732b3d50: exp_burst 25864578.570340, burst 30000000(Spawner:1):(Non-Interactive:2)/100/1429ms - Switching Process In
+0x560f732b3d50: exp_burst 15288192.856780, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1439ms - Switching Process In
+0x560f732b3d50: exp_burst 18429397.618927, burst 20000000(Spawner:1):(Non-Interactive:2)/100/1449ms - Switching Process In
+0x560f732b3f40: exp_burst 26131475.554201, burst 30000000(Non-Interactive:4)/100/1459ms - Switching Process In
+0x560f732b3f40: exp_burst 15377158.518067, burst 10000000(Non-Interactive:4)/100/1469ms - Switching Process In
+0x560f732b3f40: exp_burst 18459052.839356, burst 20000000(Non-Interactive:4)/100/1479ms - Switching Process In
+0x560f732b3d50: exp_burst 26143132.539642, burst 30000000(Spawner:1):(Non-Interactive:2)/100/1489ms - Switching Process In
+0x560f732b3d50: exp_burst 15381044.179881, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1499ms - Switching Process In
+0x560f732b3d50: exp_burst 18460348.059960, burst 20000000(Spawner:1):(Non-Interactive:2)/100/1509ms - Switching Process In
+0x560f732b3f40: exp_burst 26153017.613119, burst 30000000(Non-Interactive:4)/100/1519ms - Switching Process In
+0x560f732b3f40: exp_burst 15384339.204373, burst 10000000(Non-Interactive:4)/100/1529ms - Switching Process In
+	(Non-Interactive:4)/100/1535ms - Going to Sleep
+0x560f732b3d50: exp_burst 26153449.353320, burst 30000000(Spawner:1):(Non-Interactive:2)/100/1536ms - Switching Process In
+0x560f732b3d50: exp_burst 15384483.117773, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1539ms - Switching Process In
+0x560f732b3d50: exp_burst 18461494.372591, burst 20000000(Spawner:1):(Non-Interactive:2)/100/1549ms - Switching Process In
+0x560f732b3d50: exp_burst 26153831.457530, burst 30000000(Spawner:1):(Non-Interactive:2)/100/1559ms - Switching Process In
+0x560f732b3d50: exp_burst 35384610.485843, burst 40000000(Spawner:1):(Non-Interactive:2)/100/1569ms - Switching Process In
+0x560f732b3d50: exp_burst 45128203.495281, burst 50000000(Spawner:1):(Non-Interactive:2)/100/1579ms - Switching Process In
+0x560f732b3d50: exp_burst 55042734.498427, burst 60000000(Spawner:1):(Non-Interactive:2)/100/1589ms - Switching Process In
+0x560f732b4020: exp_burst 55082313.935131, burst 60000000(Interactive:5)/100/1599ms - Switching Process In
+0x560f732b4020: exp_burst 25027437.978377, burst 10000000(Interactive:5)/100/1609ms - Switching Process In
+0x560f732b4020: exp_burst 21675812.659459, burst 20000000(Interactive:5)/100/1619ms - Switching Process In
+0x560f732b4020: exp_burst 27225270.886486, burst 30000000(Interactive:5)/100/1629ms - Switching Process In
+0x560f732b4020: exp_burst 35741756.962162, burst 40000000(Interactive:5)/100/1639ms - Switching Process In
+0x560f732b4020: exp_burst 45247252.320721, burst 50000000(Interactive:5)/100/1649ms - Switching Process In
+0x560f732b4020: exp_burst 55082417.440240, burst 60000000(Interactive:5)/100/1659ms - Switching Process In
+0x560f732b3d50: exp_burst 65014244.832809, burst 70000000(Spawner:1):(Non-Interactive:2)/100/1669ms - Switching Process In
+0x560f732b3d50: exp_burst 28338081.610936, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1679ms - Switching Process In
+0x560f732b3d50: exp_burst 22779360.536979, burst 20000000(Spawner:1):(Non-Interactive:2)/100/1689ms - Switching Process In
+0x560f732b3d50: exp_burst 27593120.178993, burst 30000000(Spawner:1):(Non-Interactive:2)/100/1699ms - Switching Process In
+0x560f732b3d50: exp_burst 35864373.392998, burst 40000000(Spawner:1):(Non-Interactive:2)/100/1709ms - Switching Process In
+0x560f732b3d50: exp_burst 45288124.464333, burst 50000000(Spawner:1):(Non-Interactive:2)/100/1719ms - Switching Process In
+0x560f732b3d50: exp_burst 55096041.488111, burst 60000000(Spawner:1):(Non-Interactive:2)/100/1729ms - Switching Process In
+0x560f732b4020: exp_burst 65027472.480080, burst 70000000(Interactive:5)/100/1739ms - Switching Process In
+0x560f732b4020: exp_burst 28342490.826693, burst 10000000(Interactive:5)/100/1749ms - Switching Process In
+0x560f732b4020: exp_burst 22780830.275564, burst 20000000(Interactive:5)/100/1759ms - Switching Process In
+0x560f732b4020: exp_burst 27593610.091855, burst 30000000(Interactive:5)/100/1769ms - Switching Process In
+0x560f732b4020: exp_burst 35864536.697285, burst 40000000(Interactive:5)/100/1779ms - Switching Process In
+0x560f732b4020: exp_burst 45288178.899095, burst 50000000(Interactive:5)/100/1789ms - Switching Process In
+0x560f732b4020: exp_burst 55096059.633032, burst 60000000(Interactive:5)/100/1799ms - Switching Process In
+0x560f732b3d50: exp_burst 65032013.829370, burst 70000000(Spawner:1):(Non-Interactive:2)/100/1809ms - Switching Process In
+0x560f732b3d50: exp_burst 28344004.609790, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1819ms - Switching Process In
+0x560f732b3d50: exp_burst 22781334.869930, burst 20000000(Spawner:1):(Non-Interactive:2)/100/1829ms - Switching Process In
+0x560f732b3d50: exp_burst 27593778.289977, burst 30000000(Spawner:1):(Non-Interactive:2)/100/1839ms - Switching Process In
+0x560f732b3d50: exp_burst 35864592.763326, burst 40000000(Spawner:1):(Non-Interactive:2)/100/1849ms - Switching Process In
+0x560f732b3d50: exp_burst 45288197.587775, burst 50000000(Spawner:1):(Non-Interactive:2)/100/1859ms - Switching Process In
+0x560f732b3d50: exp_burst 55096065.862592, burst 60000000(Spawner:1):(Non-Interactive:2)/100/1869ms - Switching Process In
+0x560f732b4020: exp_burst 65032019.877677, burst 70000000(Interactive:5)/100/1879ms - Switching Process In
+0x560f732b4020: exp_burst 28344006.625892, burst 10000000(Interactive:5)/100/1889ms - Switching Process In
+	(Interactive:5)/100/1894ms - Going to Sleep
+0x560f732b3d50: exp_burst 65032021.954197, burst 70000000(Spawner:1):(Non-Interactive:2)/100/1895ms - Switching Process In
+0x560f732b3d50: exp_burst 28344007.318066, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1899ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Sleeper:6)/100/1906ms - Waking Up from Sleep
+	(Non-Interactive:4)/100/1906ms - Waking Up from Sleep
+	(Interactive:5)/100/1906ms - Waking Up from Sleep
+0x560f732b4100: exp_burst 3281892.868604, burst 0(Sleeper:6)/100/1907ms - Switching Process In
+0x560f732b4100: exp_burst 7760630.956201, burst 10000000(Sleeper:6)/100/1909ms - Switching Process In
+	(Sleeper:6)/100/1916ms - Going to Sleep
+0x560f732b3f40: exp_burst 11794779.734791, burst 10000000(Non-Interactive:4)/100/1917ms - Switching Process In
+0x560f732b3f40: exp_burst 10598259.911597, burst 10000000(Non-Interactive:4)/100/1919ms - Switching Process In
+0x560f732b4020: exp_burst 16114668.875297, burst 10000000(Interactive:5)/100/1929ms - Switching Process In
+0x560f732b4020: exp_burst 12038222.958432, burst 10000000(Interactive:5)/100/1939ms - Switching Process In
+0x560f732b3d50: exp_burst 16114669.106022, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1949ms - Switching Process In
+0x560f732b3d50: exp_burst 12038223.035341, burst 10000000(Spawner:1):(Non-Interactive:2)/100/1959ms - Switching Process In
+0x560f732b3f40: exp_burst 16866086.637199, burst 20000000(Non-Interactive:4)/100/1969ms - Switching Process In
+0x560f732b3f40: exp_burst 12288695.545733, burst 10000000(Non-Interactive:4)/100/1979ms - Switching Process In
+0x560f732b4020: exp_burst 17346074.319477, burst 20000000(Interactive:5)/100/1989ms - Switching Process In
+0x560f732b4020: exp_burst 12448691.439826, burst 10000000(Interactive:5)/100/1999ms - Switching Process In
+0x560f732b3d50: exp_burst 17346074.345114, burst 20000000(Spawner:1):(Non-Interactive:2)/100/2009ms - Switching Process In
+0x560f732b3d50: exp_burst 12448691.448371, burst 10000000(Spawner:1):(Non-Interactive:2)/100/2019ms - Switching Process In
+0x560f732b3f40: exp_burst 17429565.181911, burst 20000000(Non-Interactive:4)/100/2029ms - Switching Process In
+	(Non-Interactive:4)/100/2037ms - Going to Sleep
+0x560f732b4020: exp_burst 17482897.146609, burst 20000000(Interactive:5)/100/2037ms - Switching Process In
+0x560f732b4020: exp_burst 12494299.048870, burst 10000000(Interactive:5)/100/2039ms - Switching Process In
+0x560f732b3d50: exp_burst 17482897.149457, burst 20000000(Spawner:1):(Non-Interactive:2)/100/2049ms - Switching Process In
+0x560f732b3d50: exp_burst 12494299.049819, burst 10000000(Spawner:1):(Non-Interactive:2)/100/2059ms - Switching Process In
+0x560f732b4020: exp_burst 17498099.682957, burst 20000000(Interactive:5)/100/2069ms - Switching Process In
+	(Interactive:5)/100/2078ms - Going to Sleep
+0x560f732b3d50: exp_burst 17498099.683273, burst 20000000(Spawner:1):(Non-Interactive:2)/100/2079ms - Switching Process In
+0x560f732b3d50: exp_burst 12499366.561091, burst 10000000(Spawner:1):(Non-Interactive:2)/100/2079ms - Switching Process In
+0x560f732b3d50: exp_burst 17499788.853697, burst 20000000(Spawner:1):(Non-Interactive:2)/100/2089ms - Switching Process In
+0x560f732b3d50: exp_burst 25833262.951232, burst 30000000(Spawner:1):(Non-Interactive:2)/100/2099ms - Switching Process In
+0x560f732b3d50: exp_burst 35277754.317077, burst 40000000(Spawner:1):(Non-Interactive:2)/100/2109ms - Switching Process In
+0x560f732b3d50: exp_burst 45092584.772359, burst 50000000(Spawner:1):(Non-Interactive:2)/100/2119ms - Switching Process In
+0x560f732b3d50: exp_burst 55030861.590786, burst 60000000(Spawner:1):(Non-Interactive:2)/100/2129ms - Switching Process In
+0x560f732b3d50: exp_burst 65010287.196929, burst 70000000(Spawner:1):(Non-Interactive:2)/100/2139ms - Switching Process In
+0x560f732b3d50: exp_burst 75003429.065643, burst 80000000(Spawner:1):(Non-Interactive:2)/100/2149ms - Switching Process In
+0x560f732b3d50: exp_burst 85001143.021881, burst 90000000(Spawner:1):(Non-Interactive:2)/100/2159ms - Switching Process In
+0x560f732b3d50: exp_burst 95000381.007294, burst 100000000(Spawner:1):(Non-Interactive:2)/100/2169ms - Switching Process In
+0x560f732b3c70: exp_burst 98333361.558480, burst 100000000(Spawner:1)/100/2179ms - Switching Process In
+###-Process: (Spawner:1):(Interactive:7) has been created-###
+In sched_fork
+In wake_up_new_task
+0x560f732b3e60: exp_burst 0.000000, burst 0(Spawner:1):(Interactive:7)/100/2180ms - Switching Process In
+0x560f732b3e60: exp_burst 6666666.666667, burst 10000000(Spawner:1):(Interactive:7)/100/2189ms - Switching Process In
+0x560f732b3e60: exp_burst 15555555.555556, burst 20000000(Spawner:1):(Interactive:7)/100/2199ms - Switching Process In
+0x560f732b3e60: exp_burst 25185185.185185, burst 30000000(Spawner:1):(Interactive:7)/100/2209ms - Switching Process In
+0x560f732b3c70: exp_burst 32777787.186160, burst 0(Spawner:1)/100/2219ms - Switching Process In
+0x560f732b3c70: exp_burst 17592595.728720, burst 10000000(Spawner:1)/100/2229ms - Switching Process In
+0x560f732b3c70: exp_burst 19197531.909573, burst 20000000(Spawner:1)/100/2239ms - Switching Process In
+0x560f732b3c70: exp_burst 26399177.303191, burst 30000000(Spawner:1)/100/2249ms - Switching Process In
+0x560f732b3e60: exp_burst 35061728.395062, burst 40000000(Spawner:1):(Interactive:7)/100/2259ms - Switching Process In
+0x560f732b3e60: exp_burst 18353909.465021, burst 10000000(Spawner:1):(Interactive:7)/100/2269ms - Switching Process In
+0x560f732b3e60: exp_burst 19451303.155007, burst 20000000(Spawner:1):(Interactive:7)/100/2279ms - Switching Process In
+0x560f732b3e60: exp_burst 26483767.718336, burst 30000000(Spawner:1):(Interactive:7)/100/2289ms - Switching Process In
+0x560f732b3c70: exp_burst 35466392.434397, burst 40000000(Spawner:1)/100/2299ms - Switching Process In
+0x560f732b3c70: exp_burst 18488797.478132, burst 10000000(Spawner:1)/100/2309ms - Switching Process In
+0x560f732b3c70: exp_burst 19496265.826044, burst 20000000(Spawner:1)/100/2319ms - Switching Process In
+0x560f732b3c70: exp_burst 26498755.275348, burst 30000000(Spawner:1)/100/2329ms - Switching Process In
+0x560f732b3e60: exp_burst 35494589.239445, burst 40000000(Spawner:1):(Interactive:7)/100/2339ms - Switching Process In
+0x560f732b3e60: exp_burst 18498196.413148, burst 10000000(Spawner:1):(Interactive:7)/100/2349ms - Switching Process In
+0x560f732b3e60: exp_burst 19499398.804383, burst 20000000(Spawner:1):(Interactive:7)/100/2359ms - Switching Process In
+0x560f732b3e60: exp_burst 26499799.601461, burst 30000000(Spawner:1):(Interactive:7)/100/2369ms - Switching Process In
+0x560f732b3c70: exp_burst 35499585.091783, burst 40000000(Spawner:1)/100/2379ms - Switching Process In
+0x560f732b3c70: exp_burst 18499861.697261, burst 10000000(Spawner:1)/100/2389ms - Switching Process In
+0x560f732b3c70: exp_burst 19499953.899087, burst 20000000(Spawner:1)/100/2399ms - Switching Process In
+0x560f732b3c70: exp_burst 26499984.633029, burst 30000000(Spawner:1)/100/2409ms - Switching Process In
+0x560f732b3e60: exp_burst 35499933.200487, burst 40000000(Spawner:1):(Interactive:7)/100/2419ms - Switching Process In
+0x560f732b3e60: exp_burst 18499977.733496, burst 10000000(Spawner:1):(Interactive:7)/100/2429ms - Switching Process In
+0x560f732b3e60: exp_burst 19499992.577832, burst 20000000(Spawner:1):(Interactive:7)/100/2439ms - Switching Process In
+0x560f732b3e60: exp_burst 26499997.525944, burst 30000000(Spawner:1):(Interactive:7)/100/2449ms - Switching Process In
+0x560f732b3c70: exp_burst 35499994.877676, burst 40000000(Spawner:1)/100/2459ms - Switching Process In
+0x560f732b3c70: exp_burst 18499998.292559, burst 10000000(Spawner:1)/100/2469ms - Switching Process In
+0x560f732b3c70: exp_burst 19499999.430853, burst 20000000(Spawner:1)/100/2479ms - Switching Process In
+0x560f732b3c70: exp_burst 26499999.810284, burst 30000000(Spawner:1)/100/2489ms - Switching Process In
+0x560f732b3e60: exp_burst 35499999.175315, burst 40000000(Spawner:1):(Interactive:7)/100/2499ms - Switching Process In
+0x560f732b3e60: exp_burst 18499999.725105, burst 10000000(Spawner:1):(Interactive:7)/100/2509ms - Switching Process In
+0x560f732b3e60: exp_burst 19499999.908368, burst 20000000(Spawner:1):(Interactive:7)/100/2519ms - Switching Process In
+0x560f732b3e60: exp_burst 26499999.969456, burst 30000000(Spawner:1):(Interactive:7)/100/2529ms - Switching Process In
+0x560f732b3c70: exp_burst 35499999.936761, burst 40000000(Spawner:1)/100/2539ms - Switching Process In
+0x560f732b3c70: exp_burst 18499999.978920, burst 10000000(Spawner:1)/100/2549ms - Switching Process In
+0x560f732b3c70: exp_burst 19499999.992973, burst 20000000(Spawner:1)/100/2559ms - Switching Process In
+0x560f732b3c70: exp_burst 26499999.997658, burst 30000000(Spawner:1)/100/2569ms - Switching Process In
+0x560f732b3e60: exp_burst 35499999.989819, burst 40000000(Spawner:1):(Interactive:7)/100/2579ms - Switching Process In
+0x560f732b3e60: exp_burst 18499999.996606, burst 10000000(Spawner:1):(Interactive:7)/100/2589ms - Switching Process In
+0x560f732b3e60: exp_burst 19499999.998869, burst 20000000(Spawner:1):(Interactive:7)/100/2599ms - Switching Process In
+0x560f732b3e60: exp_burst 26499999.999623, burst 30000000(Spawner:1):(Interactive:7)/100/2609ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Sleeper:6)/100/2611ms - Waking Up from Sleep
+	(Non-Interactive:4)/100/2611ms - Waking Up from Sleep
+	(Interactive:5)/100/2611ms - Waking Up from Sleep
+0x560f732b3f40: exp_burst 5809855.060637, burst 0(Non-Interactive:4)/100/2612ms - Switching Process In
+0x560f732b4020: exp_burst 5832699.894319, burst 0(Interactive:5)/100/2619ms - Switching Process In
+0x560f732b3f40: exp_burst 8603285.020212, burst 10000000(Non-Interactive:4)/100/2629ms - Switching Process In
+0x560f732b4020: exp_burst 8610899.964773, burst 10000000(Interactive:5)/100/2639ms - Switching Process In
+0x560f732b4100: exp_burst 9253543.652067, burst 10000000(Sleeper:6)/100/2649ms - Switching Process In
+0x560f732b3f40: exp_burst 9534428.340071, burst 10000000(Non-Interactive:4)/100/2659ms - Switching Process In
+0x560f732b4020: exp_burst 9536966.654924, burst 10000000(Interactive:5)/100/2669ms - Switching Process In
+0x560f732b4100: exp_burst 9751181.217356, burst 10000000(Sleeper:6)/100/2679ms - Switching Process In
+0x560f732b3f40: exp_burst 9844809.446690, burst 10000000(Non-Interactive:4)/100/2689ms - Switching Process In
+0x560f732b4020: exp_burst 9845655.551641, burst 10000000(Interactive:5)/100/2699ms - Switching Process In
+0x560f732b4100: exp_burst 9917060.405785, burst 10000000(Sleeper:6)/100/2709ms - Switching Process In
+0x560f732b3f40: exp_burst 9948269.815563, burst 10000000(Non-Interactive:4)/100/2719ms - Switching Process In
+0x560f732b4020: exp_burst 9948551.850547, burst 10000000(Interactive:5)/100/2729ms - Switching Process In
+0x560f732b4100: exp_burst 9972353.468595, burst 10000000(Sleeper:6)/100/2739ms - Switching Process In
+0x560f732b3f40: exp_burst 9982756.605188, burst 10000000(Non-Interactive:4)/100/2749ms - Switching Process In
+0x560f732b4020: exp_burst 9982850.616849, burst 10000000(Interactive:5)/100/2759ms - Switching Process In
+0x560f732b4100: exp_burst 9990784.489532, burst 10000000(Sleeper:6)/100/2769ms - Switching Process In
+0x560f732b3f40: exp_burst 9994252.201729, burst 10000000(Non-Interactive:4)/100/2779ms - Switching Process In
+	(Non-Interactive:4)/100/2787ms - Going to Sleep
+0x560f732b4020: exp_burst 9994283.538950, burst 10000000(Interactive:5)/100/2788ms - Switching Process In
+0x560f732b4100: exp_burst 9996928.163177, burst 10000000(Sleeper:6)/100/2789ms - Switching Process In
+	(Sleeper:6)/100/2796ms - Going to Sleep
+0x560f732b4020: exp_burst 9998094.512983, burst 10000000(Interactive:5)/100/2797ms - Switching Process In
+0x560f732b4020: exp_burst 9999364.837661, burst 10000000(Interactive:5)/100/2799ms - Switching Process In
+0x560f732b4020: exp_burst 16666454.945887, burst 20000000(Interactive:5)/100/2809ms - Switching Process In
+0x560f732b4020: exp_burst 25555484.981962, burst 30000000(Interactive:5)/100/2819ms - Switching Process In
+0x560f732b3e60: exp_burst 28833333.333208, burst 30000000(Spawner:1):(Interactive:7)/100/2829ms - Switching Process In
+0x560f732b3e60: exp_burst 16277777.777736, burst 10000000(Spawner:1):(Interactive:7)/100/2839ms - Switching Process In
+0x560f732b3e60: exp_burst 18759259.259245, burst 20000000(Spawner:1):(Interactive:7)/100/2849ms - Switching Process In
+0x560f732b3e60: exp_burst 26253086.419748, burst 30000000(Spawner:1):(Interactive:7)/100/2859ms - Switching Process In
+0x560f732b4020: exp_burst 35185161.660654, burst 40000000(Interactive:5)/100/2869ms - Switching Process In
+0x560f732b4020: exp_burst 18395053.886885, burst 10000000(Interactive:5)/100/2879ms - Switching Process In
+0x560f732b4020: exp_burst 19465017.962295, burst 20000000(Interactive:5)/100/2889ms - Switching Process In
+0x560f732b4020: exp_burst 26488339.320765, burst 30000000(Interactive:5)/100/2899ms - Switching Process In
+0x560f732b3e60: exp_burst 35417695.473249, burst 40000000(Spawner:1):(Interactive:7)/100/2909ms - Switching Process In
+0x560f732b3e60: exp_burst 18472565.157750, burst 10000000(Spawner:1):(Interactive:7)/100/2919ms - Switching Process In
+0x560f732b3e60: exp_burst 19490855.052583, burst 20000000(Spawner:1):(Interactive:7)/100/2929ms - Switching Process In
+0x560f732b3e60: exp_burst 26496951.684194, burst 30000000(Spawner:1):(Interactive:7)/100/2939ms - Switching Process In
+0x560f732b4020: exp_burst 35496113.106922, burst 40000000(Interactive:5)/100/2949ms - Switching Process In
+0x560f732b4020: exp_burst 18498704.368974, burst 10000000(Interactive:5)/100/2959ms - Switching Process In
+0x560f732b4020: exp_burst 19499568.122991, burst 20000000(Interactive:5)/100/2969ms - Switching Process In
+0x560f732b4020: exp_burst 26499856.040997, burst 30000000(Interactive:5)/100/2979ms - Switching Process In
+0x560f732b3e60: exp_burst 35498983.894731, burst 40000000(Spawner:1):(Interactive:7)/100/2989ms - Switching Process In
+0x560f732b3e60: exp_burst 18499661.298244, burst 10000000(Spawner:1):(Interactive:7)/100/2999ms - Switching Process In
+0x560f732b3e60: exp_burst 19499887.099415, burst 20000000(Spawner:1):(Interactive:7)/100/3009ms - Switching Process In
+0x560f732b3e60: exp_burst 26499962.366472, burst 30000000(Spawner:1):(Interactive:7)/100/3019ms - Switching Process In
+0x560f732b4020: exp_burst 35499952.013666, burst 40000000(Interactive:5)/100/3029ms - Switching Process In
+0x560f732b4020: exp_burst 18499984.004555, burst 10000000(Interactive:5)/100/3039ms - Switching Process In
+0x560f732b4020: exp_burst 19499994.668185, burst 20000000(Interactive:5)/100/3049ms - Switching Process In
+0x560f732b4020: exp_burst 26499998.222728, burst 30000000(Interactive:5)/100/3059ms - Switching Process In
+0x560f732b3e60: exp_burst 35499987.455491, burst 40000000(Spawner:1):(Interactive:7)/100/3069ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Non-Interactive:4)/100/3074ms - Waking Up from Sleep
+	(Sleeper:6)/100/3074ms - Waking Up from Sleep
+0x560f732b3f40: exp_burst 3331417.400576, burst 0(Non-Interactive:4)/100/3075ms - Switching Process In
+0x560f732b4100: exp_burst 3332309.387726, burst 0(Sleeper:6)/100/3079ms - Switching Process In
+0x560f732b3f40: exp_burst 7777139.133525, burst 10000000(Non-Interactive:4)/100/3089ms - Switching Process In
+0x560f732b4100: exp_burst 7777436.462575, burst 10000000(Sleeper:6)/100/3099ms - Switching Process In
+0x560f732b3f40: exp_burst 9259046.377842, burst 10000000(Non-Interactive:4)/100/3109ms - Switching Process In
+0x560f732b4100: exp_burst 9259145.487525, burst 10000000(Sleeper:6)/100/3119ms - Switching Process In
+0x560f732b3f40: exp_burst 9753015.459281, burst 10000000(Non-Interactive:4)/100/3129ms - Switching Process In
+0x560f732b4100: exp_burst 9753048.495842, burst 10000000(Sleeper:6)/100/3139ms - Switching Process In
+0x560f732b3f40: exp_burst 9917671.819760, burst 10000000(Non-Interactive:4)/100/3149ms - Switching Process In
+	(Non-Interactive:4)/100/3158ms - Going to Sleep
+0x560f732b4100: exp_burst 9917682.831947, burst 10000000(Sleeper:6)/100/3159ms - Switching Process In
+0x560f732b4100: exp_burst 9972560.943982, burst 10000000(Sleeper:6)/100/3159ms - Switching Process In
+0x560f732b3e60: exp_burst 11833329.151830, burst 0(Spawner:1):(Interactive:7)/100/3169ms - Switching Process In
+0x560f732b3e60: exp_burst 10611109.717277, burst 10000000(Spawner:1):(Interactive:7)/100/3179ms - Switching Process In
+0x560f732b4100: exp_burst 16657520.314661, burst 20000000(Sleeper:6)/100/3189ms - Switching Process In
+0x560f732b4100: exp_burst 12219173.438220, burst 10000000(Sleeper:6)/100/3199ms - Switching Process In
+0x560f732b3e60: exp_burst 16870369.905759, burst 20000000(Spawner:1):(Interactive:7)/100/3209ms - Switching Process In
+0x560f732b3e60: exp_burst 12290123.301920, burst 10000000(Spawner:1):(Interactive:7)/100/3219ms - Switching Process In
+0x560f732b4100: exp_burst 17406391.146073, burst 20000000(Sleeper:6)/100/3229ms - Switching Process In
+0x560f732b4100: exp_burst 12468797.048691, burst 10000000(Sleeper:6)/100/3239ms - Switching Process In
+0x560f732b3e60: exp_burst 17430041.100640, burst 20000000(Spawner:1):(Interactive:7)/100/3249ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Non-Interactive:4)/100/3249ms - Waking Up from Sleep
+0x560f732b3f40: exp_burst 3305890.606587, burst 0(Non-Interactive:4)/100/3250ms - Switching Process In
+0x560f732b3e60: exp_burst 5810013.700213, burst 0(Spawner:1):(Interactive:7)/100/3259ms - Switching Process In
+0x560f732b3f40: exp_burst 7768630.202196, burst 10000000(Non-Interactive:4)/100/3269ms - Switching Process In
+0x560f732b3e60: exp_burst 8603337.900071, burst 10000000(Spawner:1):(Interactive:7)/100/3279ms - Switching Process In
+0x560f732b3f40: exp_burst 9256210.067399, burst 10000000(Non-Interactive:4)/100/3289ms - Switching Process In
+0x560f732b3e60: exp_burst 9534445.966690, burst 10000000(Spawner:1):(Interactive:7)/100/3299ms - Switching Process In
+0x560f732b3f40: exp_burst 9752070.022466, burst 10000000(Non-Interactive:4)/100/3309ms - Switching Process In
+0x560f732b3e60: exp_burst 9844815.322230, burst 10000000(Spawner:1):(Interactive:7)/100/3319ms - Switching Process In
+0x560f732b3f40: exp_burst 9917356.674155, burst 10000000(Non-Interactive:4)/100/3329ms - Switching Process In
+0x560f732b3e60: exp_burst 9948271.774077, burst 10000000(Spawner:1):(Interactive:7)/100/3339ms - Switching Process In
+0x560f732b3f40: exp_burst 9972452.224718, burst 10000000(Non-Interactive:4)/100/3349ms - Switching Process In
+0x560f732b3e60: exp_burst 9982757.258026, burst 10000000(Spawner:1):(Interactive:7)/100/3359ms - Switching Process In
+	(Spawner:1):(Interactive:7)/100/3369ms - Going to Sleep
+0x560f732b3f40: exp_burst 9990817.408239, burst 10000000(Non-Interactive:4)/100/3370ms - Switching Process In
+0x560f732b3f40: exp_burst 9996939.136080, burst 10000000(Non-Interactive:4)/100/3379ms - Switching Process In
+0x560f732b3f40: exp_burst 16665646.378693, burst 20000000(Non-Interactive:4)/100/3389ms - Switching Process In
+0x560f732b4100: exp_burst 17489599.016230, burst 20000000(Sleeper:6)/100/3399ms - Switching Process In
+0x560f732b4100: exp_burst 12496533.005410, burst 10000000(Sleeper:6)/100/3409ms - Switching Process In
+0x560f732b4100: exp_burst 17498844.335137, burst 20000000(Sleeper:6)/100/3419ms - Switching Process In
+0x560f732b3f40: exp_burst 25555215.459564, burst 30000000(Non-Interactive:4)/100/3429ms - Switching Process In
+0x560f732b3f40: exp_burst 15185071.819855, burst 10000000(Non-Interactive:4)/100/3439ms - Switching Process In
+0x560f732b3f40: exp_burst 18395023.939952, burst 20000000(Non-Interactive:4)/100/3449ms - Switching Process In
+0x560f732b4100: exp_burst 25832948.111712, burst 30000000(Sleeper:6)/100/3459ms - Switching Process In
+0x560f732b4100: exp_burst 15277649.370571, burst 10000000(Sleeper:6)/100/3469ms - Switching Process In
+0x560f732b4100: exp_burst 18425883.123524, burst 20000000(Sleeper:6)/100/3479ms - Switching Process In
+0x560f732b3f40: exp_burst 26131674.646651, burst 30000000(Non-Interactive:4)/100/3489ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Spawner:1):(Interactive:7)/100/3494ms - Waking Up from Sleep
+0x560f732b3f40: exp_burst 8710558.215550, burst 0(Non-Interactive:4)/100/3495ms - Switching Process In
+0x560f732b3f40: exp_burst 9570186.071850, burst 10000000(Non-Interactive:4)/100/3499ms - Switching Process In
+0x560f732b3e60: exp_burst 9994252.419342, burst 10000000(Spawner:1):(Interactive:7)/100/3509ms - Switching Process In
+0x560f732b3e60: exp_burst 9998084.139781, burst 10000000(Spawner:1):(Interactive:7)/100/3519ms - Switching Process In
+0x560f732b3f40: exp_burst 16523395.357283, burst 20000000(Non-Interactive:4)/100/3529ms - Switching Process In
+0x560f732b3f40: exp_burst 12174465.119094, burst 10000000(Non-Interactive:4)/100/3539ms - Switching Process In
+0x560f732b3e60: exp_burst 16666028.046594, burst 20000000(Spawner:1):(Interactive:7)/100/3549ms - Switching Process In
+0x560f732b3e60: exp_burst 12222009.348865, burst 10000000(Spawner:1):(Interactive:7)/100/3559ms - Switching Process In
+0x560f732b3f40: exp_burst 17391488.373031, burst 20000000(Non-Interactive:4)/100/3569ms - Switching Process In
+0x560f732b3f40: exp_burst 12463829.457677, burst 10000000(Non-Interactive:4)/100/3579ms - Switching Process In
+0x560f732b3e60: exp_burst 17407336.449622, burst 20000000(Spawner:1):(Interactive:7)/100/3589ms - Switching Process In
+0x560f732b3e60: exp_burst 12469112.149874, burst 10000000(Spawner:1):(Interactive:7)/100/3599ms - Switching Process In
+0x560f732b3f40: exp_burst 17487943.152559, burst 20000000(Non-Interactive:4)/100/3609ms - Switching Process In
+0x560f732b3f40: exp_burst 12495981.050853, burst 10000000(Non-Interactive:4)/100/3619ms - Switching Process In
+0x560f732b3e60: exp_burst 17489704.049958, burst 20000000(Spawner:1):(Interactive:7)/100/3629ms - Switching Process In
+0x560f732b3e60: exp_burst 12496568.016653, burst 10000000(Spawner:1):(Interactive:7)/100/3639ms - Switching Process In
+0x560f732b3f40: exp_burst 17498660.350284, burst 20000000(Non-Interactive:4)/100/3649ms - Switching Process In
+0x560f732b3f40: exp_burst 12499553.450095, burst 10000000(Non-Interactive:4)/100/3659ms - Switching Process In
+0x560f732b3e60: exp_burst 17498856.005551, burst 20000000(Spawner:1):(Interactive:7)/100/3669ms - Switching Process In
+0x560f732b3e60: exp_burst 12499618.668517, burst 10000000(Spawner:1):(Interactive:7)/100/3679ms - Switching Process In
+0x560f732b3f40: exp_burst 17499851.150032, burst 20000000(Non-Interactive:4)/100/3689ms - Switching Process In
+0x560f732b3f40: exp_burst 12499950.383344, burst 10000000(Non-Interactive:4)/100/3699ms - Switching Process In
+0x560f732b3e60: exp_burst 17499872.889506, burst 20000000(Spawner:1):(Interactive:7)/100/3709ms - Switching Process In
+0x560f732b3e60: exp_burst 12499957.629835, burst 10000000(Spawner:1):(Interactive:7)/100/3719ms - Switching Process In
+0x560f732b3f40: exp_burst 17499983.461115, burst 20000000(Non-Interactive:4)/100/3729ms - Switching Process In
+0x560f732b3f40: exp_burst 12499994.487038, burst 10000000(Non-Interactive:4)/100/3739ms - Switching Process In
+0x560f732b3e60: exp_burst 17499985.876612, burst 20000000(Spawner:1):(Interactive:7)/100/3749ms - Switching Process In
+0x560f732b3e60: exp_burst 12499995.292204, burst 10000000(Spawner:1):(Interactive:7)/100/3759ms - Switching Process In
+	(Spawner:1):(Interactive:7)/100/3767ms - Going to Sleep
+0x560f732b3f40: exp_burst 17499998.162346, burst 20000000(Non-Interactive:4)/100/3768ms - Switching Process In
+0x560f732b3f40: exp_burst 12499999.387449, burst 10000000(Non-Interactive:4)/100/3769ms - Switching Process In
+0x560f732b3f40: exp_burst 17499999.795816, burst 20000000(Non-Interactive:4)/100/3779ms - Switching Process In
+	(Non-Interactive:4)/100/3786ms - Going to Sleep
+0x560f732b4100: exp_burst 26141961.041175, burst 30000000(Sleeper:6)/100/3787ms - Switching Process In
+0x560f732b4100: exp_burst 15380653.680392, burst 10000000(Sleeper:6)/100/3789ms - Switching Process In
+0x560f732b4100: exp_burst 18460217.893464, burst 20000000(Sleeper:6)/100/3799ms - Switching Process In
+0x560f732b4100: exp_burst 26153405.964488, burst 30000000(Sleeper:6)/100/3809ms - Switching Process In
+0x560f732b4100: exp_burst 35384468.654829, burst 40000000(Sleeper:6)/100/3819ms - Switching Process In
+0x560f732b4020: exp_burst 35499999.407576, burst 40000000(Interactive:5)/100/3829ms - Switching Process In
+0x560f732b4020: exp_burst 18499999.802525, burst 10000000(Interactive:5)/100/3839ms - Switching Process In
+	(Interactive:5)/100/3846ms - Going to Sleep
+0x560f732b3c70: exp_burst 35499999.999219, burst 40000000(Spawner:1)/100/3847ms - Switching Process In
+0x560f732b3c70: exp_burst 18499999.999740, burst 10000000(Spawner:1)/100/3849ms - Switching Process In
+0x560f732b3c70: exp_burst 19499999.999913, burst 20000000(Spawner:1)/100/3859ms - Switching Process In
+0x560f732b3c70: exp_burst 26499999.999971, burst 30000000(Spawner:1)/100/3869ms - Switching Process In
+0x560f732b3c70: exp_burst 35499999.999990, burst 40000000(Spawner:1)/100/3879ms - Switching Process In
+0x560f732b4100: exp_burst 45128156.218276, burst 50000000(Sleeper:6)/100/3889ms - Switching Process In
+0x560f732b4100: exp_burst 21709385.406092, burst 10000000(Sleeper:6)/100/3899ms - Switching Process In
+0x560f732b4100: exp_burst 20569795.135364, burst 20000000(Sleeper:6)/100/3909ms - Switching Process In
+0x560f732b4100: exp_burst 26856598.378455, burst 30000000(Sleeper:6)/100/3919ms - Switching Process In
+0x560f732b4100: exp_burst 35618866.126152, burst 40000000(Sleeper:6)/100/3929ms - Switching Process In
+0x560f732b3c70: exp_burst 45166666.666663, burst 50000000(Spawner:1)/100/3939ms - Switching Process In
+0x560f732b3c70: exp_burst 21722222.222221, burst 10000000(Spawner:1)/100/3949ms - Switching Process In
+0x560f732b3c70: exp_burst 20574074.074074, burst 20000000(Spawner:1)/100/3959ms - Switching Process In
+0x560f732b3c70: exp_burst 26858024.691358, burst 30000000(Spawner:1)/100/3969ms - Switching Process In
+0x560f732b3c70: exp_burst 35619341.563786, burst 40000000(Spawner:1)/100/3979ms - Switching Process In
+0x560f732b4100: exp_burst 45206288.708717, burst 50000000(Sleeper:6)/100/3989ms - Switching Process In
+0x560f732b4100: exp_burst 21735429.569572, burst 10000000(Sleeper:6)/100/3999ms - Switching Process In
+0x560f732b4100: exp_burst 20578476.523191, burst 20000000(Sleeper:6)/100/4009ms - Switching Process In
+0x560f732b4100: exp_burst 26859492.174397, burst 30000000(Sleeper:6)/100/4019ms - Switching Process In
+0x560f732b4100: exp_burst 35619830.724799, burst 40000000(Sleeper:6)/100/4029ms - Switching Process In
+0x560f732b3c70: exp_burst 45206447.187929, burst 50000000(Spawner:1)/100/4039ms - Switching Process In
+0x560f732b3c70: exp_burst 21735482.395976, burst 10000000(Spawner:1)/100/4049ms - Switching Process In
+0x560f732b3c70: exp_burst 20578494.131992, burst 20000000(Spawner:1)/100/4059ms - Switching Process In
+0x560f732b3c70: exp_burst 26859498.043997, burst 30000000(Spawner:1)/100/4069ms - Switching Process In
+0x560f732b3c70: exp_burst 35619832.681332, burst 40000000(Spawner:1)/100/4079ms - Switching Process In
+0x560f732b4100: exp_burst 45206610.241600, burst 50000000(Sleeper:6)/100/4089ms - Switching Process In
+0x560f732b4100: exp_burst 21735536.747200, burst 10000000(Sleeper:6)/100/4099ms - Switching Process In
+0x560f732b4100: exp_burst 20578512.249067, burst 20000000(Sleeper:6)/100/4109ms - Switching Process In
+0x560f732b4100: exp_burst 26859504.083022, burst 30000000(Sleeper:6)/100/4119ms - Switching Process In
+0x560f732b4100: exp_burst 35619834.694341, burst 40000000(Sleeper:6)/100/4129ms - Switching Process In
+	(Sleeper:6)/100/4137ms - Going to Sleep
+0x560f732b3c70: exp_burst 45206610.893777, burst 50000000(Spawner:1)/100/4138ms - Switching Process In
+0x560f732b3c70: exp_burst 21735536.964592, burst 10000000(Spawner:1)/100/4139ms - Switching Process In
+0x560f732b3c70: exp_burst 20578512.321531, burst 20000000(Spawner:1)/100/4149ms - Switching Process In
+0x560f732b3c70: exp_burst 26859504.107177, burst 30000000(Spawner:1)/100/4159ms - Switching Process In
+0x560f732b3c70: exp_burst 35619834.702392, burst 40000000(Spawner:1)/100/4169ms - Switching Process In
+0x560f732b3c70: exp_burst 45206611.567464, burst 50000000(Spawner:1)/100/4179ms - Switching Process In
+0x560f732b3c70: exp_burst 55068870.522488, burst 60000000(Spawner:1)/100/4189ms - Switching Process In
+0x560f732b3c70: exp_burst 65022956.840829, burst 70000000(Spawner:1)/100/4199ms - Switching Process In
+0x560f732b3c70: exp_burst 75007652.280276, burst 80000000(Spawner:1)/100/4209ms - Switching Process In
+0x560f732b3c70: exp_burst 85002550.760092, burst 90000000(Spawner:1)/100/4219ms - Switching Process In
+0x560f732b3c70: exp_burst 95000850.253364, burst 100000000(Spawner:1)/100/4229ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Spawner:1):(Interactive:7)/100/4234ms - Waking Up from Sleep
+	(Non-Interactive:4)/100/4234ms - Waking Up from Sleep
+	(Interactive:5)/100/4234ms - Waking Up from Sleep
+	(Sleeper:6)/100/4234ms - Waking Up from Sleep
+0x560f732b3e60: exp_burst 10833331.764068, burst 10000000(Spawner:1):(Interactive:7)/100/4235ms - Switching Process In
+0x560f732b3e60: exp_burst 10277777.254689, burst 10000000(Spawner:1):(Interactive:7)/100/4239ms - Switching Process In
+0x560f732b4020: exp_burst 12833333.267508, burst 10000000(Interactive:5)/100/4249ms - Switching Process In
+0x560f732b4020: exp_burst 10944444.422503, burst 10000000(Interactive:5)/100/4259ms - Switching Process In
+0x560f732b3e60: exp_burst 16759259.084896, burst 20000000(Spawner:1):(Interactive:7)/100/4269ms - Switching Process In
+0x560f732b3e60: exp_burst 12253086.361632, burst 10000000(Spawner:1):(Interactive:7)/100/4279ms - Switching Process In
+0x560f732b4020: exp_burst 16981481.474168, burst 20000000(Interactive:5)/100/4289ms - Switching Process In
+0x560f732b4020: exp_burst 12327160.491389, burst 10000000(Interactive:5)/100/4299ms - Switching Process In
+0x560f732b3e60: exp_burst 17417695.453877, burst 20000000(Spawner:1):(Interactive:7)/100/4309ms - Switching Process In
+0x560f732b3e60: exp_burst 12472565.151292, burst 10000000(Spawner:1):(Interactive:7)/100/4319ms - Switching Process In
+0x560f732b4020: exp_burst 17442386.830463, burst 20000000(Interactive:5)/100/4329ms - Switching Process In
+0x560f732b4020: exp_burst 12480795.610154, burst 10000000(Interactive:5)/100/4339ms - Switching Process In
+0x560f732b3e60: exp_burst 17490855.050431, burst 20000000(Spawner:1):(Interactive:7)/100/4349ms - Switching Process In
+0x560f732b3e60: exp_burst 12496951.683477, burst 10000000(Spawner:1):(Interactive:7)/100/4359ms - Switching Process In
+	(Spawner:1):(Interactive:7)/100/4364ms - Going to Sleep
+0x560f732b4020: exp_burst 17493598.536718, burst 20000000(Interactive:5)/100/4365ms - Switching Process In
+0x560f732b4020: exp_burst 12497866.178906, burst 10000000(Interactive:5)/100/4369ms - Switching Process In
+0x560f732b4020: exp_burst 17499288.726302, burst 20000000(Interactive:5)/100/4379ms - Switching Process In
+0x560f732b3f40: exp_burst 19166666.598605, burst 20000000(Non-Interactive:4)/100/4389ms - Switching Process In
+0x560f732b3f40: exp_burst 13055555.532868, burst 10000000(Non-Interactive:4)/100/4399ms - Switching Process In
+0x560f732b3f40: exp_burst 17685185.177623, burst 20000000(Non-Interactive:4)/100/4409ms - Switching Process In
+0x560f732b4020: exp_burst 25833096.242101, burst 30000000(Interactive:5)/100/4419ms - Switching Process In
+0x560f732b4020: exp_burst 15277698.747367, burst 10000000(Interactive:5)/100/4429ms - Switching Process In
+0x560f732b4020: exp_burst 18425899.582456, burst 20000000(Interactive:5)/100/4439ms - Switching Process In
+0x560f732b3f40: exp_burst 25895061.725874, burst 30000000(Non-Interactive:4)/100/4449ms - Switching Process In
+0x560f732b3f40: exp_burst 15298353.908625, burst 10000000(Non-Interactive:4)/100/4459ms - Switching Process In
+0x560f732b3f40: exp_burst 18432784.636208, burst 20000000(Non-Interactive:4)/100/4469ms - Switching Process In
+	(Non-Interactive:4)/100/4476ms - Going to Sleep
+0x560f732b4020: exp_burst 26141966.527485, burst 30000000(Interactive:5)/100/4477ms - Switching Process In
+0x560f732b4020: exp_burst 15380655.509162, burst 10000000(Interactive:5)/100/4479ms - Switching Process In
+0x560f732b4020: exp_burst 18460218.503054, burst 20000000(Interactive:5)/100/4489ms - Switching Process In
+0x560f732b4020: exp_burst 26153406.167685, burst 30000000(Interactive:5)/100/4499ms - Switching Process In
+0x560f732b4020: exp_burst 35384468.722562, burst 40000000(Interactive:5)/100/4509ms - Switching Process In
+0x560f732b4100: exp_burst 38539944.898114, burst 40000000(Sleeper:6)/100/4519ms - Switching Process In
+0x560f732b4100: exp_burst 19513314.966038, burst 10000000(Sleeper:6)/100/4529ms - Switching Process In
+0x560f732b4100: exp_burst 19837771.655346, burst 20000000(Sleeper:6)/100/4539ms - Switching Process In
+0x560f732b4100: exp_burst 26612590.551782, burst 30000000(Sleeper:6)/100/4549ms - Switching Process In
+0x560f732b4100: exp_burst 35537530.183927, burst 40000000(Sleeper:6)/100/4559ms - Switching Process In
+0x560f732b4020: exp_burst 45128156.240854, burst 50000000(Interactive:5)/100/4569ms - Switching Process In
+0x560f732b4020: exp_burst 21709385.413618, burst 10000000(Interactive:5)/100/4579ms - Switching Process In
+0x560f732b4020: exp_burst 20569795.137873, burst 20000000(Interactive:5)/100/4589ms - Switching Process In
+0x560f732b4020: exp_burst 26856598.379291, burst 30000000(Interactive:5)/100/4599ms - Switching Process In
+0x560f732b4020: exp_burst 35618866.126430, burst 40000000(Interactive:5)/100/4609ms - Switching Process In
+0x560f732b4100: exp_burst 45179176.727976, burst 50000000(Sleeper:6)/100/4619ms - Switching Process In
+0x560f732b4100: exp_burst 21726392.242659, burst 10000000(Sleeper:6)/100/4629ms - Switching Process In
+0x560f732b4100: exp_burst 20575464.080886, burst 20000000(Sleeper:6)/100/4639ms - Switching Process In
+0x560f732b4100: exp_burst 26858488.026962, burst 30000000(Sleeper:6)/100/4649ms - Switching Process In
+0x560f732b4100: exp_burst 35619496.008987, burst 40000000(Sleeper:6)/100/4659ms - Switching Process In
+0x560f732b4020: exp_burst 45206288.708810, burst 50000000(Interactive:5)/100/4669ms - Switching Process In
+0x560f732b4020: exp_burst 21735429.569603, burst 10000000(Interactive:5)/100/4679ms - Switching Process In
+0x560f732b4020: exp_burst 20578476.523201, burst 20000000(Interactive:5)/100/4689ms - Switching Process In
+0x560f732b4020: exp_burst 26859492.174400, burst 30000000(Interactive:5)/100/4699ms - Switching Process In
+0x560f732b4020: exp_burst 35619830.724800, burst 40000000(Interactive:5)/100/4709ms - Switching Process In
+0x560f732b4100: exp_burst 45206498.669662, burst 50000000(Sleeper:6)/100/4719ms - Switching Process In
+	(Sleeper:6)/100/4724ms - Going to Sleep
+0x560f732b4020: exp_burst 45206610.241600, burst 50000000(Interactive:5)/100/4725ms - Switching Process In
+0x560f732b4020: exp_burst 21735536.747200, burst 10000000(Interactive:5)/100/4729ms - Switching Process In
+0x560f732b4020: exp_burst 20578512.249067, burst 20000000(Interactive:5)/100/4739ms - Switching Process In
+0x560f732b4020: exp_burst 26859504.083022, burst 30000000(Interactive:5)/100/4749ms - Switching Process In
+0x560f732b4020: exp_burst 35619834.694341, burst 40000000(Interactive:5)/100/4759ms - Switching Process In
+0x560f732b4020: exp_burst 45206611.564780, burst 50000000(Interactive:5)/100/4769ms - Switching Process In
+0x560f732b4020: exp_burst 55068870.521593, burst 60000000(Interactive:5)/100/4779ms - Switching Process In
+0x560f732b4020: exp_burst 65022956.840531, burst 70000000(Interactive:5)/100/4789ms - Switching Process In
+0x560f732b4020: exp_burst 75007652.280177, burst 80000000(Interactive:5)/100/4799ms - Switching Process In
+	(Interactive:5)/100/4807ms - Going to Sleep
+0x560f732b3c70: exp_burst 98333616.751121, burst 100000000(Spawner:1)/100/4808ms - Switching Process In
+0x560f732b3c70: exp_burst 39444538.917040, burst 10000000(Spawner:1)/100/4809ms - Switching Process In
+0x560f732b3c70: exp_burst 26481512.972347, burst 20000000(Spawner:1)/100/4819ms - Switching Process In
+0x560f732b3c70: exp_burst 28827170.990782, burst 30000000(Spawner:1)/100/4829ms - Switching Process In
+0x560f732b3c70: exp_burst 36275723.663594, burst 40000000(Spawner:1)/100/4839ms - Switching Process In
+0x560f732b3c70: exp_burst 45425241.221198, burst 50000000(Spawner:1)/100/4849ms - Switching Process In
+0x560f732b3c70: exp_burst 55141747.073733, burst 60000000(Spawner:1)/100/4859ms - Switching Process In
+0x560f732b3c70: exp_burst 65047249.024578, burst 70000000(Spawner:1)/100/4869ms - Switching Process In
+0x560f732b3c70: exp_burst 75015749.674859, burst 80000000(Spawner:1)/100/4879ms - Switching Process In
+0x560f732b3c70: exp_burst 85005249.891620, burst 90000000(Spawner:1)/100/4889ms - Switching Process In
+0x560f732b3c70: exp_burst 95001749.963873, burst 100000000(Spawner:1)/100/4899ms - Switching Process In
+0x560f732b3d50: exp_burst 105000127.002431, burst 110000000(Spawner:1):(Non-Interactive:2)/100/4909ms - Switching Process In
+0x560f732b3d50: exp_burst 41666709.000810, burst 10000000(Spawner:1):(Non-Interactive:2)/100/4919ms - Switching Process In
+0x560f732b3d50: exp_burst 27222236.333603, burst 20000000(Spawner:1):(Non-Interactive:2)/100/4929ms - Switching Process In
+0x560f732b3d50: exp_burst 29074078.777868, burst 30000000(Spawner:1):(Non-Interactive:2)/100/4939ms - Switching Process In
+0x560f732b3d50: exp_burst 36358026.259289, burst 40000000(Spawner:1):(Non-Interactive:2)/100/4949ms - Switching Process In
+0x560f732b3d50: exp_burst 45452675.419763, burst 50000000(Spawner:1):(Non-Interactive:2)/100/4959ms - Switching Process In
+0x560f732b3d50: exp_burst 55150891.806588, burst 60000000(Spawner:1):(Non-Interactive:2)/100/4969ms - Switching Process In
+0x560f732b3d50: exp_burst 65050297.268863, burst 70000000(Spawner:1):(Non-Interactive:2)/100/4979ms - Switching Process In
+0x560f732b3d50: exp_burst 75016765.756288, burst 80000000(Spawner:1):(Non-Interactive:2)/100/4989ms - Switching Process In
+0x560f732b3d50: exp_burst 85005588.585429, burst 90000000(Spawner:1):(Non-Interactive:2)/100/4999ms - Switching Process In
+0x560f732b3d50: exp_burst 95001862.861810, burst 100000000(Spawner:1):(Non-Interactive:2)/100/5009ms - Switching Process In
+0x560f732b3c70: exp_burst 105000583.321291, burst 110000000(Spawner:1)/100/5019ms - Switching Process In
+0x560f732b3c70: exp_burst 41666861.107097, burst 10000000(Spawner:1)/100/5029ms - Switching Process In
+0x560f732b3c70: exp_burst 27222287.035699, burst 20000000(Spawner:1)/100/5039ms - Switching Process In
+0x560f732b3c70: exp_burst 29074095.678566, burst 30000000(Spawner:1)/100/5049ms - Switching Process In
+0x560f732b3c70: exp_burst 36358031.892855, burst 40000000(Spawner:1)/100/5059ms - Switching Process In
+0x560f732b3c70: exp_burst 45452677.297618, burst 50000000(Spawner:1)/100/5069ms - Switching Process In
+0x560f732b3c70: exp_burst 55150892.432539, burst 60000000(Spawner:1)/100/5079ms - Switching Process In
+0x560f732b3c70: exp_burst 65050297.477513, burst 70000000(Spawner:1)/100/5089ms - Switching Process In
+0x560f732b3c70: exp_burst 75016765.825838, burst 80000000(Spawner:1)/100/5099ms - Switching Process In
+0x560f732b3c70: exp_burst 85005588.608613, burst 90000000(Spawner:1)/100/5109ms - Switching Process In
+0x560f732b3c70: exp_burst 95001862.869538, burst 100000000(Spawner:1)/100/5119ms - Switching Process In
+0x560f732b3d50: exp_burst 105000620.953937, burst 110000000(Spawner:1):(Non-Interactive:2)/100/5129ms - Switching Process In
+0x560f732b3d50: exp_burst 41666873.651312, burst 10000000(Spawner:1):(Non-Interactive:2)/100/5139ms - Switching Process In
+0x560f732b3d50: exp_burst 27222291.217104, burst 20000000(Spawner:1):(Non-Interactive:2)/100/5149ms - Switching Process In
+0x560f732b3d50: exp_burst 29074097.072368, burst 30000000(Spawner:1):(Non-Interactive:2)/100/5159ms - Switching Process In
+0x560f732b3d50: exp_burst 36358032.357456, burst 40000000(Spawner:1):(Non-Interactive:2)/100/5169ms - Switching Process In
+0x560f732b3d50: exp_burst 45452677.452485, burst 50000000(Spawner:1):(Non-Interactive:2)/100/5179ms - Switching Process In
+0x560f732b3d50: exp_burst 55150892.484162, burst 60000000(Spawner:1):(Non-Interactive:2)/100/5189ms - Switching Process In
+0x560f732b3d50: exp_burst 65050297.494721, burst 70000000(Spawner:1):(Non-Interactive:2)/100/5199ms - Switching Process In
+0x560f732b3d50: exp_burst 75016765.831574, burst 80000000(Spawner:1):(Non-Interactive:2)/100/5209ms - Switching Process In
+0x560f732b3d50: exp_burst 85005588.610525, burst 90000000(Spawner:1):(Non-Interactive:2)/100/5219ms - Switching Process In
+0x560f732b3d50: exp_burst 95001862.870175, burst 100000000(Spawner:1):(Non-Interactive:2)/100/5229ms - Switching Process In
+0x560f732b3c70: exp_burst 105000620.956513, burst 110000000(Spawner:1)/100/5239ms - Switching Process In
+0x560f732b3c70: exp_burst 41666873.652171, burst 10000000(Spawner:1)/100/5249ms - Switching Process In
+0x560f732b3c70: exp_burst 27222291.217390, burst 20000000(Spawner:1)/100/5259ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Spawner:1):(Interactive:7)/100/5263ms - Waking Up from Sleep
+	(Non-Interactive:4)/100/5263ms - Waking Up from Sleep
+	(Sleeper:6)/100/5263ms - Waking Up from Sleep
+	(Interactive:5)/100/5263ms - Waking Up from Sleep
+0x560f732b3e60: exp_burst 10832317.227826, burst 10000000(Spawner:1):(Interactive:7)/100/5264ms - Switching Process In
+0x560f732b3e60: exp_burst 10277439.075942, burst 10000000(Spawner:1):(Interactive:7)/100/5269ms - Switching Process In
+0x560f732b4100: exp_burst 15068832.889887, burst 0(Sleeper:6)/100/5279ms - Switching Process In
+0x560f732b4100: exp_burst 11689610.963296, burst 10000000(Sleeper:6)/100/5289ms - Switching Process In
+0x560f732b3e60: exp_burst 16759146.358647, burst 20000000(Spawner:1):(Interactive:7)/100/5299ms - Switching Process In
+0x560f732b3e60: exp_burst 12253048.786216, burst 10000000(Spawner:1):(Interactive:7)/100/5309ms - Switching Process In
+0x560f732b4100: exp_burst 17229870.321099, burst 20000000(Sleeper:6)/100/5319ms - Switching Process In
+0x560f732b4100: exp_burst 12409956.773700, burst 10000000(Sleeper:6)/100/5329ms - Switching Process In
+0x560f732b3e60: exp_burst 17417682.928739, burst 20000000(Spawner:1):(Interactive:7)/100/5339ms - Switching Process In
+0x560f732b3e60: exp_burst 12472560.976246, burst 10000000(Spawner:1):(Interactive:7)/100/5349ms - Switching Process In
+0x560f732b4100: exp_burst 17469985.591233, burst 20000000(Sleeper:6)/100/5359ms - Switching Process In
+0x560f732b4100: exp_burst 12489995.197078, burst 10000000(Sleeper:6)/100/5369ms - Switching Process In
+0x560f732b3e60: exp_burst 17490853.658749, burst 20000000(Spawner:1):(Interactive:7)/100/5379ms - Switching Process In
+0x560f732b3e60: exp_burst 12496951.219583, burst 10000000(Spawner:1):(Interactive:7)/100/5389ms - Switching Process In
+0x560f732b4100: exp_burst 17496665.065693, burst 20000000(Sleeper:6)/100/5399ms - Switching Process In
+0x560f732b4100: exp_burst 12498888.355231, burst 10000000(Sleeper:6)/100/5409ms - Switching Process In
+0x560f732b3e60: exp_burst 17498983.739861, burst 20000000(Spawner:1):(Interactive:7)/100/5419ms - Switching Process In
+0x560f732b3e60: exp_burst 12499661.246620, burst 10000000(Spawner:1):(Interactive:7)/100/5429ms - Switching Process In
+0x560f732b4100: exp_burst 17499629.451744, burst 20000000(Sleeper:6)/100/5439ms - Switching Process In
+0x560f732b4100: exp_burst 12499876.483915, burst 10000000(Sleeper:6)/100/5449ms - Switching Process In
+0x560f732b3e60: exp_burst 17499887.082207, burst 20000000(Spawner:1):(Interactive:7)/100/5459ms - Switching Process In
+0x560f732b3e60: exp_burst 12499962.360736, burst 10000000(Spawner:1):(Interactive:7)/100/5469ms - Switching Process In
+0x560f732b4100: exp_burst 17499958.827972, burst 20000000(Sleeper:6)/100/5479ms - Switching Process In
+0x560f732b4100: exp_burst 12499986.275991, burst 10000000(Sleeper:6)/100/5489ms - Switching Process In
+0x560f732b3e60: exp_burst 17499987.453579, burst 20000000(Spawner:1):(Interactive:7)/100/5499ms - Switching Process In
+0x560f732b3e60: exp_burst 12499995.817860, burst 10000000(Spawner:1):(Interactive:7)/100/5509ms - Switching Process In
+	(Spawner:1):(Interactive:7)/100/5517ms - Going to Sleep
+0x560f732b4100: exp_burst 17499995.425330, burst 20000000(Sleeper:6)/100/5518ms - Switching Process In
+0x560f732b4100: exp_burst 12499998.475110, burst 10000000(Sleeper:6)/100/5519ms - Switching Process In
+0x560f732b4100: exp_burst 17499999.491703, burst 20000000(Sleeper:6)/100/5529ms - Switching Process In
+0x560f732b3f40: exp_burst 19477594.878736, burst 20000000(Non-Interactive:4)/100/5539ms - Switching Process In
+0x560f732b3f40: exp_burst 13159198.292912, burst 10000000(Non-Interactive:4)/100/5549ms - Switching Process In
+0x560f732b3f40: exp_burst 17719732.764304, burst 20000000(Non-Interactive:4)/100/5559ms - Switching Process In
+0x560f732b3c70: exp_burst 22407430.405797, burst 20000000(Spawner:1)/100/5569ms - Switching Process In
+0x560f732b3c70: exp_burst 14135810.135266, burst 10000000(Spawner:1)/100/5579ms - Switching Process In
+0x560f732b3c70: exp_burst 18045270.045089, burst 20000000(Spawner:1)/100/5589ms - Switching Process In
+0x560f732b4100: exp_burst 25833333.163901, burst 30000000(Sleeper:6)/100/5599ms - Switching Process In
+0x560f732b4100: exp_burst 15277777.721300, burst 10000000(Sleeper:6)/100/5609ms - Switching Process In
+0x560f732b4100: exp_burst 18425925.907100, burst 20000000(Sleeper:6)/100/5619ms - Switching Process In
+0x560f732b3f40: exp_burst 25906577.588101, burst 30000000(Non-Interactive:4)/100/5629ms - Switching Process In
+0x560f732b3f40: exp_burst 15302192.529367, burst 10000000(Non-Interactive:4)/100/5639ms - Switching Process In
+0x560f732b3f40: exp_burst 18434064.176456, burst 20000000(Non-Interactive:4)/100/5649ms - Switching Process In
+0x560f732b3c70: exp_burst 26015090.015030, burst 30000000(Spawner:1)/100/5659ms - Switching Process In
+0x560f732b3c70: exp_burst 15338363.338343, burst 10000000(Spawner:1)/100/5669ms - Switching Process In
+0x560f732b3c70: exp_burst 18446121.112781, burst 20000000(Spawner:1)/100/5679ms - Switching Process In
+0x560f732b4100: exp_burst 26141975.302367, burst 30000000(Sleeper:6)/100/5689ms - Switching Process In
+0x560f732b4100: exp_burst 15380658.434122, burst 10000000(Sleeper:6)/100/5699ms - Switching Process In
+0x560f732b4100: exp_burst 18460219.478041, burst 20000000(Sleeper:6)/100/5709ms - Switching Process In
+0x560f732b3f40: exp_burst 26144688.058819, burst 30000000(Non-Interactive:4)/100/5719ms - Switching Process In
+	(Non-Interactive:4)/100/5728ms - Going to Sleep
+0x560f732b3c70: exp_burst 26148707.037594, burst 30000000(Spawner:1)/100/5729ms - Switching Process In
+0x560f732b3c70: exp_burst 15382902.345865, burst 10000000(Spawner:1)/100/5729ms - Switching Process In
+0x560f732b3c70: exp_burst 18460967.448622, burst 20000000(Spawner:1)/100/5739ms - Switching Process In
+0x560f732b4100: exp_burst 26153406.492680, burst 30000000(Sleeper:6)/100/5749ms - Switching Process In
+0x560f732b4100: exp_burst 15384468.830893, burst 10000000(Sleeper:6)/100/5759ms - Switching Process In
+0x560f732b4100: exp_burst 18461489.610298, burst 20000000(Sleeper:6)/100/5769ms - Switching Process In
+0x560f732b3c70: exp_burst 26153655.816207, burst 30000000(Spawner:1)/100/5779ms - Switching Process In
+0x560f732b3c70: exp_burst 15384551.938736, burst 10000000(Spawner:1)/100/5789ms - Switching Process In
+0x560f732b3c70: exp_burst 18461517.312912, burst 20000000(Spawner:1)/100/5799ms - Switching Process In
+0x560f732b4100: exp_burst 26153829.870099, burst 30000000(Sleeper:6)/100/5809ms - Switching Process In
+0x560f732b4100: exp_burst 15384609.956700, burst 10000000(Sleeper:6)/100/5819ms - Switching Process In
+0x560f732b4100: exp_burst 18461536.652233, burst 20000000(Sleeper:6)/100/5829ms - Switching Process In
+0x560f732b3c70: exp_burst 26153839.104304, burst 30000000(Spawner:1)/100/5839ms - Switching Process In
+0x560f732b3c70: exp_burst 15384613.034768, burst 10000000(Spawner:1)/100/5849ms - Switching Process In
+0x560f732b3c70: exp_burst 18461537.678256, burst 20000000(Spawner:1)/100/5859ms - Switching Process In
+0x560f732b4100: exp_burst 26153845.550744, burst 30000000(Sleeper:6)/100/5869ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Spawner:1):(Interactive:7)/100/5877ms - Waking Up from Sleep
+	(Non-Interactive:4)/100/5877ms - Waking Up from Sleep
+0x560f732b3f40: exp_burst 8714896.019606, burst 0(Non-Interactive:4)/100/5878ms - Switching Process In
+0x560f732b4100: exp_burst 8717948.516915, burst 0(Sleeper:6)/100/5879ms - Switching Process In
+0x560f732b3f40: exp_burst 9571632.006535, burst 10000000(Non-Interactive:4)/100/5889ms - Switching Process In
+0x560f732b4100: exp_burst 9572649.505638, burst 10000000(Sleeper:6)/100/5899ms - Switching Process In
+0x560f732b3f40: exp_burst 9857210.668845, burst 10000000(Non-Interactive:4)/100/5909ms - Switching Process In
+0x560f732b4100: exp_burst 9857549.835213, burst 10000000(Sleeper:6)/100/5919ms - Switching Process In
+0x560f732b3f40: exp_burst 9952403.556282, burst 10000000(Non-Interactive:4)/100/5929ms - Switching Process In
+0x560f732b4100: exp_burst 9952516.611738, burst 10000000(Sleeper:6)/100/5939ms - Switching Process In
+###-An Interrupt has fired!-###
+0x560f732b4100: exp_burst 3317505.537246, burst 0(Sleeper:6)/100/5940ms - Switching Process In
+0x560f732b4100: exp_burst 7772501.845749, burst 10000000(Sleeper:6)/100/5949ms - Switching Process In
+0x560f732b3f40: exp_burst 9984134.518761, burst 10000000(Non-Interactive:4)/100/5959ms - Switching Process In
+0x560f732b3f40: exp_burst 9994711.506254, burst 10000000(Non-Interactive:4)/100/5969ms - Switching Process In
+0x560f732b3e60: exp_burst 10833331.939287, burst 10000000(Spawner:1):(Interactive:7)/100/5979ms - Switching Process In
+0x560f732b3e60: exp_burst 10277777.313096, burst 10000000(Spawner:1):(Interactive:7)/100/5989ms - Switching Process In
+0x560f732b4100: exp_burst 15924167.281916, burst 20000000(Sleeper:6)/100/5999ms - Switching Process In
+	(Sleeper:6)/100/6009ms - Going to Sleep
+0x560f732b3f40: exp_burst 16664903.835418, burst 20000000(Non-Interactive:4)/100/6010ms - Switching Process In
+0x560f732b3f40: exp_burst 12221634.611806, burst 10000000(Non-Interactive:4)/100/6019ms - Switching Process In
+0x560f732b3e60: exp_burst 16759259.104365, burst 20000000(Spawner:1):(Interactive:7)/100/6029ms - Switching Process In
+0x560f732b3e60: exp_burst 12253086.368122, burst 10000000(Spawner:1):(Interactive:7)/100/6039ms - Switching Process In
+	(Spawner:1):(Interactive:7)/100/6048ms - Going to Sleep
+0x560f732b3f40: exp_burst 17407211.537269, burst 20000000(Non-Interactive:4)/100/6049ms - Switching Process In
+0x560f732b3f40: exp_burst 12469070.512423, burst 10000000(Non-Interactive:4)/100/6049ms - Switching Process In
+0x560f732b3f40: exp_burst 17489690.170808, burst 20000000(Non-Interactive:4)/100/6059ms - Switching Process In
+0x560f732b3f40: exp_burst 25829896.723603, burst 30000000(Non-Interactive:4)/100/6069ms - Switching Process In
+	(Non-Interactive:4)/100/6075ms - Going to Sleep
+0x560f732b3c70: exp_burst 26153845.892752, burst 30000000(Spawner:1)/100/6076ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.297584, burst 10000000(Spawner:1)/100/6079ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.432528, burst 20000000(Spawner:1)/100/6089ms - Switching Process In
+0x560f732b3c70: exp_burst 26153846.144176, burst 30000000(Spawner:1)/100/6099ms - Switching Process In
+0x560f732b3c70: exp_burst 35384615.381392, burst 40000000(Spawner:1)/100/6109ms - Switching Process In
+0x560f732b3c70: exp_burst 45128205.127131, burst 50000000(Spawner:1)/100/6119ms - Switching Process In
+0x560f732b3c70: exp_burst 55042735.042377, burst 60000000(Spawner:1)/100/6129ms - Switching Process In
+0x560f732b3c70: exp_burst 65014245.014126, burst 70000000(Spawner:1)/100/6139ms - Switching Process In
+0x560f732b3c70: exp_burst 75004748.338042, burst 80000000(Spawner:1)/100/6149ms - Switching Process In
+0x560f732b4020: exp_burst 78335884.093392, burst 80000000(Interactive:5)/100/6159ms - Switching Process In
+0x560f732b4020: exp_burst 32778628.031131, burst 10000000(Interactive:5)/100/6169ms - Switching Process In
+0x560f732b4020: exp_burst 24259542.677044, burst 20000000(Interactive:5)/100/6179ms - Switching Process In
+0x560f732b4020: exp_burst 28086514.225681, burst 30000000(Interactive:5)/100/6189ms - Switching Process In
+0x560f732b4020: exp_burst 36028838.075227, burst 40000000(Interactive:5)/100/6199ms - Switching Process In
+0x560f732b4020: exp_burst 45342946.025076, burst 50000000(Interactive:5)/100/6209ms - Switching Process In
+0x560f732b4020: exp_burst 55114315.341692, burst 60000000(Interactive:5)/100/6219ms - Switching Process In
+0x560f732b4020: exp_burst 65038105.113897, burst 70000000(Interactive:5)/100/6229ms - Switching Process In
+0x560f732b4020: exp_burst 75012701.704632, burst 80000000(Interactive:5)/100/6239ms - Switching Process In
+0x560f732b3c70: exp_burst 85001582.779347, burst 90000000(Spawner:1)/100/6249ms - Switching Process In
+0x560f732b3c70: exp_burst 35000527.593116, burst 10000000(Spawner:1)/100/6259ms - Switching Process In
+0x560f732b3c70: exp_burst 25000175.864372, burst 20000000(Spawner:1)/100/6269ms - Switching Process In
+0x560f732b3c70: exp_burst 28333391.954791, burst 30000000(Spawner:1)/100/6279ms - Switching Process In
+0x560f732b3c70: exp_burst 36111130.651597, burst 40000000(Spawner:1)/100/6289ms - Switching Process In
+0x560f732b3c70: exp_burst 45370376.883866, burst 50000000(Spawner:1)/100/6299ms - Switching Process In
+0x560f732b3c70: exp_burst 55123458.961289, burst 60000000(Spawner:1)/100/6309ms - Switching Process In
+0x560f732b3c70: exp_burst 65041152.987096, burst 70000000(Spawner:1)/100/6319ms - Switching Process In
+0x560f732b3c70: exp_burst 75013717.662365, burst 80000000(Spawner:1)/100/6329ms - Switching Process In
+0x560f732b4020: exp_burst 85004233.901544, burst 90000000(Interactive:5)/100/6339ms - Switching Process In
+0x560f732b4020: exp_burst 35001411.300515, burst 10000000(Interactive:5)/100/6349ms - Switching Process In
+0x560f732b4020: exp_burst 25000470.433505, burst 20000000(Interactive:5)/100/6359ms - Switching Process In
+0x560f732b4020: exp_burst 28333490.144502, burst 30000000(Interactive:5)/100/6369ms - Switching Process In
+0x560f732b4020: exp_burst 36111163.381501, burst 40000000(Interactive:5)/100/6379ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Sleeper:6)/100/6380ms - Waking Up from Sleep
+	(Spawner:1):(Interactive:7)/100/6380ms - Waking Up from Sleep
+	(Non-Interactive:4)/100/6380ms - Waking Up from Sleep
+0x560f732b3e60: exp_burst 10751028.789374, burst 10000000(Spawner:1):(Interactive:7)/100/6381ms - Switching Process In
+0x560f732b3e60: exp_burst 10250342.929791, burst 10000000(Spawner:1):(Interactive:7)/100/6389ms - Switching Process In
+0x560f732b4100: exp_burst 11974722.427305, burst 10000000(Sleeper:6)/100/6399ms - Switching Process In
+0x560f732b4100: exp_burst 10658240.809102, burst 10000000(Sleeper:6)/100/6409ms - Switching Process In
+0x560f732b3e60: exp_burst 16750114.309930, burst 20000000(Spawner:1):(Interactive:7)/100/6419ms - Switching Process In
+0x560f732b3e60: exp_burst 12250038.103310, burst 10000000(Spawner:1):(Interactive:7)/100/6429ms - Switching Process In
+0x560f732b4100: exp_burst 16886080.269701, burst 20000000(Sleeper:6)/100/6439ms - Switching Process In
+0x560f732b4100: exp_burst 12295360.089900, burst 10000000(Sleeper:6)/100/6449ms - Switching Process In
+0x560f732b3e60: exp_burst 17416679.367770, burst 20000000(Spawner:1):(Interactive:7)/100/6459ms - Switching Process In
+0x560f732b3e60: exp_burst 12472226.455923, burst 10000000(Spawner:1):(Interactive:7)/100/6469ms - Switching Process In
+0x560f732b4100: exp_burst 17431786.696633, burst 20000000(Sleeper:6)/100/6479ms - Switching Process In
+0x560f732b4100: exp_burst 12477262.232211, burst 10000000(Sleeper:6)/100/6489ms - Switching Process In
+0x560f732b3e60: exp_burst 17490742.151974, burst 20000000(Spawner:1):(Interactive:7)/100/6499ms - Switching Process In
+0x560f732b3e60: exp_burst 12496914.050658, burst 10000000(Spawner:1):(Interactive:7)/100/6509ms - Switching Process In
+0x560f732b4100: exp_burst 17492420.744070, burst 20000000(Sleeper:6)/100/6519ms - Switching Process In
+0x560f732b4100: exp_burst 12497473.581357, burst 10000000(Sleeper:6)/100/6529ms - Switching Process In
+0x560f732b3e60: exp_burst 17498971.350219, burst 20000000(Spawner:1):(Interactive:7)/100/6539ms - Switching Process In
+0x560f732b3e60: exp_burst 12499657.116740, burst 10000000(Spawner:1):(Interactive:7)/100/6549ms - Switching Process In
+0x560f732b4100: exp_burst 17499157.860452, burst 20000000(Sleeper:6)/100/6559ms - Switching Process In
+0x560f732b4100: exp_burst 12499719.286817, burst 10000000(Sleeper:6)/100/6569ms - Switching Process In
+0x560f732b3e60: exp_burst 17499885.705580, burst 20000000(Spawner:1):(Interactive:7)/100/6579ms - Switching Process In
+0x560f732b3e60: exp_burst 12499961.901860, burst 10000000(Spawner:1):(Interactive:7)/100/6589ms - Switching Process In
+0x560f732b4100: exp_burst 17499906.428939, burst 20000000(Sleeper:6)/100/6599ms - Switching Process In
+0x560f732b4100: exp_burst 12499968.809646, burst 10000000(Sleeper:6)/100/6609ms - Switching Process In
+0x560f732b3e60: exp_burst 17499987.300620, burst 20000000(Spawner:1):(Interactive:7)/100/6619ms - Switching Process In
+0x560f732b3e60: exp_burst 12499995.766873, burst 10000000(Spawner:1):(Interactive:7)/100/6629ms - Switching Process In
+0x560f732b4100: exp_burst 17499989.603215, burst 20000000(Sleeper:6)/100/6639ms - Switching Process In
+0x560f732b4100: exp_burst 12499996.534405, burst 10000000(Sleeper:6)/100/6649ms - Switching Process In
+	(Sleeper:6)/100/6655ms - Going to Sleep
+0x560f732b3e60: exp_burst 17499998.588958, burst 20000000(Spawner:1):(Interactive:7)/100/6656ms - Switching Process In
+0x560f732b3e60: exp_burst 12499999.529653, burst 10000000(Spawner:1):(Interactive:7)/100/6659ms - Switching Process In
+0x560f732b3e60: exp_burst 17499999.843218, burst 20000000(Spawner:1):(Interactive:7)/100/6669ms - Switching Process In
+0x560f732b3e60: exp_burst 25833333.281073, burst 30000000(Spawner:1):(Interactive:7)/100/6679ms - Switching Process In
+0x560f732b3f40: exp_burst 28609965.574534, burst 30000000(Non-Interactive:4)/100/6689ms - Switching Process In
+0x560f732b3f40: exp_burst 16203321.858178, burst 10000000(Non-Interactive:4)/100/6699ms - Switching Process In
+0x560f732b3f40: exp_burst 18734440.619393, burst 20000000(Non-Interactive:4)/100/6709ms - Switching Process In
+0x560f732b3f40: exp_burst 26244813.539798, burst 30000000(Non-Interactive:4)/100/6719ms - Switching Process In
+0x560f732b3e60: exp_burst 35277777.760358, burst 40000000(Spawner:1):(Interactive:7)/100/6729ms - Switching Process In
+0x560f732b3e60: exp_burst 18425925.920119, burst 10000000(Spawner:1):(Interactive:7)/100/6739ms - Switching Process In
+0x560f732b3e60: exp_burst 19475308.640040, burst 20000000(Spawner:1):(Interactive:7)/100/6749ms - Switching Process In
+0x560f732b3e60: exp_burst 26491769.546680, burst 30000000(Spawner:1):(Interactive:7)/100/6759ms - Switching Process In
+0x560f732b3f40: exp_burst 35414937.846599, burst 40000000(Non-Interactive:4)/100/6769ms - Switching Process In
+0x560f732b3f40: exp_burst 18471645.948866, burst 10000000(Non-Interactive:4)/100/6779ms - Switching Process In
+0x560f732b3f40: exp_burst 19490548.649622, burst 20000000(Non-Interactive:4)/100/6789ms - Switching Process In
+0x560f732b3f40: exp_burst 26496849.549874, burst 30000000(Non-Interactive:4)/100/6799ms - Switching Process In
+0x560f732b3e60: exp_burst 35497256.515560, burst 40000000(Spawner:1):(Interactive:7)/100/6809ms - Switching Process In
+0x560f732b3e60: exp_burst 18499085.505187, burst 10000000(Spawner:1):(Interactive:7)/100/6819ms - Switching Process In
+0x560f732b3e60: exp_burst 19499695.168396, burst 20000000(Spawner:1):(Interactive:7)/100/6829ms - Switching Process In
+0x560f732b3e60: exp_burst 26499898.389465, burst 30000000(Spawner:1):(Interactive:7)/100/6839ms - Switching Process In
+0x560f732b3f40: exp_burst 35498949.849958, burst 40000000(Non-Interactive:4)/100/6849ms - Switching Process In
+0x560f732b3f40: exp_burst 18499649.949986, burst 10000000(Non-Interactive:4)/100/6859ms - Switching Process In
+0x560f732b3f40: exp_burst 19499883.316662, burst 20000000(Non-Interactive:4)/100/6869ms - Switching Process In
+0x560f732b3f40: exp_burst 26499961.105554, burst 30000000(Non-Interactive:4)/100/6879ms - Switching Process In
+0x560f732b3e60: exp_burst 35499966.129822, burst 40000000(Spawner:1):(Interactive:7)/100/6889ms - Switching Process In
+0x560f732b3e60: exp_burst 18499988.709941, burst 10000000(Spawner:1):(Interactive:7)/100/6899ms - Switching Process In
+0x560f732b3e60: exp_burst 19499996.236647, burst 20000000(Spawner:1):(Interactive:7)/100/6909ms - Switching Process In
+0x560f732b3e60: exp_burst 26499998.745549, burst 30000000(Spawner:1):(Interactive:7)/100/6919ms - Switching Process In
+0x560f732b3f40: exp_burst 35499987.035185, burst 40000000(Non-Interactive:4)/100/6929ms - Switching Process In
+0x560f732b3f40: exp_burst 18499995.678395, burst 10000000(Non-Interactive:4)/100/6939ms - Switching Process In
+0x560f732b3f40: exp_burst 19499998.559465, burst 20000000(Non-Interactive:4)/100/6949ms - Switching Process In
+0x560f732b3f40: exp_burst 26499999.519822, burst 30000000(Non-Interactive:4)/100/6959ms - Switching Process In
+0x560f732b3e60: exp_burst 35499999.581850, burst 40000000(Spawner:1):(Interactive:7)/100/6969ms - Switching Process In
+0x560f732b3e60: exp_burst 18499999.860617, burst 10000000(Spawner:1):(Interactive:7)/100/6979ms - Switching Process In
+0x560f732b3e60: exp_burst 19499999.953539, burst 20000000(Spawner:1):(Interactive:7)/100/6989ms - Switching Process In
+0x560f732b3e60: exp_burst 26499999.984513, burst 30000000(Spawner:1):(Interactive:7)/100/6999ms - Switching Process In
+0x560f732b3f40: exp_burst 35499999.839941, burst 40000000(Non-Interactive:4)/100/7009ms - Switching Process In
+0x560f732b3f40: exp_burst 18499999.946647, burst 10000000(Non-Interactive:4)/100/7019ms - Switching Process In
+0x560f732b3f40: exp_burst 19499999.982216, burst 20000000(Non-Interactive:4)/100/7029ms - Switching Process In
+0x560f732b3f40: exp_burst 26499999.994072, burst 30000000(Non-Interactive:4)/100/7039ms - Switching Process In
+0x560f732b3e60: exp_burst 35499999.994838, burst 40000000(Spawner:1):(Interactive:7)/100/7049ms - Switching Process In
+0x560f732b3e60: exp_burst 18499999.998279, burst 10000000(Spawner:1):(Interactive:7)/100/7059ms - Switching Process In
+0x560f732b3e60: exp_burst 19499999.999426, burst 20000000(Spawner:1):(Interactive:7)/100/7069ms - Switching Process In
+0x560f732b3e60: exp_burst 26499999.999809, burst 30000000(Spawner:1):(Interactive:7)/100/7079ms - Switching Process In
+0x560f732b3f40: exp_burst 35499999.998024, burst 40000000(Non-Interactive:4)/100/7089ms - Switching Process In
+0x560f732b3f40: exp_burst 18499999.999341, burst 10000000(Non-Interactive:4)/100/7099ms - Switching Process In
+0x560f732b3f40: exp_burst 19499999.999780, burst 20000000(Non-Interactive:4)/100/7109ms - Switching Process In
+0x560f732b3f40: exp_burst 26499999.999927, burst 30000000(Non-Interactive:4)/100/7119ms - Switching Process In
+	(Non-Interactive:4)/100/7126ms - Going to Sleep
+0x560f732b3e60: exp_burst 35499999.999936, burst 40000000(Spawner:1):(Interactive:7)/100/7127ms - Switching Process In
+0x560f732b3e60: exp_burst 18499999.999979, burst 10000000(Spawner:1):(Interactive:7)/100/7129ms - Switching Process In
+0x560f732b3e60: exp_burst 19499999.999993, burst 20000000(Spawner:1):(Interactive:7)/100/7139ms - Switching Process In
+0x560f732b3e60: exp_burst 26499999.999998, burst 30000000(Spawner:1):(Interactive:7)/100/7149ms - Switching Process In
+0x560f732b3e60: exp_burst 35499999.999999, burst 40000000(Spawner:1):(Interactive:7)/100/7159ms - Switching Process In
+0x560f732b4020: exp_burst 38703721.127167, burst 40000000(Interactive:5)/100/7169ms - Switching Process In
+0x560f732b4020: exp_burst 19567907.042389, burst 10000000(Interactive:5)/100/7179ms - Switching Process In
+0x560f732b4020: exp_burst 19855969.014130, burst 20000000(Interactive:5)/100/7189ms - Switching Process In
+0x560f732b4020: exp_burst 26618656.338043, burst 30000000(Interactive:5)/100/7199ms - Switching Process In
+0x560f732b4020: exp_burst 35539552.112681, burst 40000000(Interactive:5)/100/7209ms - Switching Process In
+0x560f732b3e60: exp_burst 45166666.666666, burst 50000000(Spawner:1):(Interactive:7)/100/7219ms - Switching Process In
+0x560f732b3e60: exp_burst 21722222.222222, burst 10000000(Spawner:1):(Interactive:7)/100/7229ms - Switching Process In
+	(Spawner:1):(Interactive:7)/100/7236ms - Going to Sleep
+0x560f732b4020: exp_burst 45179850.704227, burst 50000000(Interactive:5)/100/7237ms - Switching Process In
+0x560f732b4020: exp_burst 21726616.901409, burst 10000000(Interactive:5)/100/7239ms - Switching Process In
+0x560f732b4020: exp_burst 20575538.967136, burst 20000000(Interactive:5)/100/7249ms - Switching Process In
+0x560f732b4020: exp_burst 26858512.989045, burst 30000000(Interactive:5)/100/7259ms - Switching Process In
+0x560f732b4020: exp_burst 35619504.329682, burst 40000000(Interactive:5)/100/7269ms - Switching Process In
+0x560f732b4020: exp_burst 45206501.443227, burst 50000000(Interactive:5)/100/7279ms - Switching Process In
+0x560f732b4020: exp_burst 55068833.814409, burst 60000000(Interactive:5)/100/7289ms - Switching Process In
+0x560f732b4020: exp_burst 65022944.604803, burst 70000000(Interactive:5)/100/7299ms - Switching Process In
+0x560f732b4020: exp_burst 75007648.201601, burst 80000000(Interactive:5)/100/7309ms - Switching Process In
+0x560f732b4020: exp_burst 85002549.400534, burst 90000000(Interactive:5)/100/7319ms - Switching Process In
+0x560f732b3c70: exp_burst 85004572.554122, burst 90000000(Spawner:1)/100/7329ms - Switching Process In
+0x560f732b3c70: exp_burst 35001524.184707, burst 10000000(Spawner:1)/100/7339ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Sleeper:6)/100/7340ms - Waking Up from Sleep
+	(Non-Interactive:4)/100/7340ms - Waking Up from Sleep
+	(Spawner:1):(Interactive:7)/100/7340ms - Waking Up from Sleep
+0x560f732b4100: exp_burst 10833332.178135, burst 10000000(Sleeper:6)/100/7341ms - Switching Process In
+0x560f732b4100: exp_burst 10277777.392712, burst 10000000(Sleeper:6)/100/7349ms - Switching Process In
+0x560f732b3e60: exp_burst 13907407.407407, burst 10000000(Spawner:1):(Interactive:7)/100/7359ms - Switching Process In
+0x560f732b3e60: exp_burst 11302469.135802, burst 10000000(Spawner:1):(Interactive:7)/100/7369ms - Switching Process In
+0x560f732b4100: exp_burst 16759259.130904, burst 20000000(Sleeper:6)/100/7379ms - Switching Process In
+0x560f732b4100: exp_burst 12253086.376968, burst 10000000(Sleeper:6)/100/7389ms - Switching Process In
+0x560f732b3e60: exp_burst 17100823.045267, burst 20000000(Spawner:1):(Interactive:7)/100/7399ms - Switching Process In
+0x560f732b3e60: exp_burst 12366941.015089, burst 10000000(Spawner:1):(Interactive:7)/100/7409ms - Switching Process In
+0x560f732b4100: exp_burst 17417695.458989, burst 20000000(Sleeper:6)/100/7419ms - Switching Process In
+0x560f732b4100: exp_burst 12472565.152996, burst 10000000(Sleeper:6)/100/7429ms - Switching Process In
+	(Sleeper:6)/100/7437ms - Going to Sleep
+0x560f732b3e60: exp_burst 17455647.005030, burst 20000000(Spawner:1):(Interactive:7)/100/7438ms - Switching Process In
+0x560f732b3e60: exp_burst 12485215.668343, burst 10000000(Spawner:1):(Interactive:7)/100/7439ms - Switching Process In
+0x560f732b3e60: exp_burst 17495071.889448, burst 20000000(Spawner:1):(Interactive:7)/100/7449ms - Switching Process In
+0x560f732b3c70: exp_burst 18333841.394902, burst 10000000(Spawner:1)/100/7459ms - Switching Process In
+0x560f732b3c70: exp_burst 12777947.131634, burst 10000000(Spawner:1)/100/7469ms - Switching Process In
+0x560f732b3c70: exp_burst 17592649.043878, burst 20000000(Spawner:1)/100/7479ms - Switching Process In
+0x560f732b3e60: exp_burst 25831690.629816, burst 30000000(Spawner:1):(Interactive:7)/100/7489ms - Switching Process In
+0x560f732b3e60: exp_burst 15277230.209939, burst 10000000(Spawner:1):(Interactive:7)/100/7499ms - Switching Process In
+0x560f732b3e60: exp_burst 18425743.403313, burst 20000000(Spawner:1):(Interactive:7)/100/7509ms - Switching Process In
+0x560f732b3c70: exp_burst 25864216.347959, burst 30000000(Spawner:1)/100/7519ms - Switching Process In
+0x560f732b3c70: exp_burst 15288072.115986, burst 10000000(Spawner:1)/100/7529ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Sleeper:6)/100/7531ms - Waking Up from Sleep
+0x560f732b4100: exp_burst 10824188.384332, burst 10000000(Sleeper:6)/100/7532ms - Switching Process In
+0x560f732b4100: exp_burst 10274729.461444, burst 10000000(Sleeper:6)/100/7539ms - Switching Process In
+0x560f732b3c70: exp_burst 11762690.705329, burst 10000000(Spawner:1)/100/7549ms - Switching Process In
+0x560f732b3c70: exp_burst 10587563.568443, burst 10000000(Spawner:1)/100/7559ms - Switching Process In
+0x560f732b4100: exp_burst 16758243.153815, burst 20000000(Sleeper:6)/100/7569ms - Switching Process In
+0x560f732b4100: exp_burst 12252747.717938, burst 10000000(Sleeper:6)/100/7579ms - Switching Process In
+0x560f732b3c70: exp_burst 16862521.189481, burst 20000000(Spawner:1)/100/7589ms - Switching Process In
+0x560f732b3c70: exp_burst 12287507.063160, burst 10000000(Spawner:1)/100/7599ms - Switching Process In
+0x560f732b4100: exp_burst 17417582.572646, burst 20000000(Sleeper:6)/100/7609ms - Switching Process In
+0x560f732b4100: exp_burst 12472527.524215, burst 10000000(Sleeper:6)/100/7619ms - Switching Process In
+0x560f732b3c70: exp_burst 17429169.021053, burst 20000000(Spawner:1)/100/7629ms - Switching Process In
+0x560f732b3c70: exp_burst 12476389.673684, burst 10000000(Spawner:1)/100/7639ms - Switching Process In
+0x560f732b4100: exp_burst 17490842.508072, burst 20000000(Sleeper:6)/100/7649ms - Switching Process In
+0x560f732b4100: exp_burst 12496947.502691, burst 10000000(Sleeper:6)/100/7659ms - Switching Process In
+0x560f732b3c70: exp_burst 17492129.891228, burst 20000000(Spawner:1)/100/7669ms - Switching Process In
+0x560f732b3c70: exp_burst 12497376.630409, burst 10000000(Spawner:1)/100/7679ms - Switching Process In
+0x560f732b4100: exp_burst 17498982.500897, burst 20000000(Sleeper:6)/100/7689ms - Switching Process In
+###-An Interrupt has fired!-###
+0x560f732b4100: exp_burst 5832994.166966, burst 0(Sleeper:6)/100/7691ms - Switching Process In
+0x560f732b4100: exp_burst 8610998.055655, burst 10000000(Sleeper:6)/100/7699ms - Switching Process In
+0x560f732b4100: exp_burst 16203666.018552, burst 20000000(Sleeper:6)/100/7709ms - Switching Process In
+0x560f732b3c70: exp_burst 17499125.543470, burst 20000000(Spawner:1)/100/7719ms - Switching Process In
+0x560f732b3c70: exp_burst 12499708.514490, burst 10000000(Spawner:1)/100/7729ms - Switching Process In
+0x560f732b3c70: exp_burst 17499902.838163, burst 20000000(Spawner:1)/100/7739ms - Switching Process In
+0x560f732b4100: exp_burst 25401222.006184, burst 30000000(Sleeper:6)/100/7749ms - Switching Process In
+0x560f732b4100: exp_burst 15133740.668728, burst 10000000(Sleeper:6)/100/7759ms - Switching Process In
+0x560f732b4100: exp_burst 18377913.556243, burst 20000000(Sleeper:6)/100/7769ms - Switching Process In
+0x560f732b3c70: exp_burst 25833300.946054, burst 30000000(Spawner:1)/100/7779ms - Switching Process In
+0x560f732b3c70: exp_burst 15277766.982018, burst 10000000(Spawner:1)/100/7789ms - Switching Process In
+0x560f732b3c70: exp_burst 18425922.327339, burst 20000000(Spawner:1)/100/7799ms - Switching Process In
+0x560f732b4100: exp_burst 26125971.185414, burst 30000000(Sleeper:6)/100/7809ms - Switching Process In
+0x560f732b4100: exp_burst 15375323.728471, burst 10000000(Sleeper:6)/100/7819ms - Switching Process In
+0x560f732b4100: exp_burst 18458441.242824, burst 20000000(Sleeper:6)/100/7829ms - Switching Process In
+0x560f732b3e60: exp_burst 26141914.467771, burst 30000000(Spawner:1):(Interactive:7)/100/7839ms - Switching Process In
+0x560f732b3e60: exp_burst 15380638.155924, burst 10000000(Spawner:1):(Interactive:7)/100/7849ms - Switching Process In
+0x560f732b3e60: exp_burst 18460212.718641, burst 20000000(Spawner:1):(Interactive:7)/100/7859ms - Switching Process In
+0x560f732b3c70: exp_burst 26141974.109113, burst 30000000(Spawner:1)/100/7869ms - Switching Process In
+0x560f732b3c70: exp_burst 15380658.036371, burst 10000000(Spawner:1)/100/7879ms - Switching Process In
+0x560f732b3c70: exp_burst 18460219.345457, burst 20000000(Spawner:1)/100/7889ms - Switching Process In
+0x560f732b4100: exp_burst 26152813.747608, burst 30000000(Sleeper:6)/100/7899ms - Switching Process In
+0x560f732b4100: exp_burst 15384271.249203, burst 10000000(Sleeper:6)/100/7909ms - Switching Process In
+0x560f732b4100: exp_burst 18461423.749734, burst 20000000(Sleeper:6)/100/7919ms - Switching Process In
+0x560f732b3e60: exp_burst 26153404.239547, burst 30000000(Spawner:1):(Interactive:7)/100/7929ms - Switching Process In
+0x560f732b3e60: exp_burst 15384468.079849, burst 10000000(Spawner:1):(Interactive:7)/100/7939ms - Switching Process In
+0x560f732b3e60: exp_burst 18461489.359950, burst 20000000(Spawner:1):(Interactive:7)/100/7949ms - Switching Process In
+0x560f732b3c70: exp_burst 26153406.448486, burst 30000000(Spawner:1)/100/7959ms - Switching Process In
+0x560f732b3c70: exp_burst 15384468.816162, burst 10000000(Spawner:1)/100/7969ms - Switching Process In
+0x560f732b3c70: exp_burst 18461489.605387, burst 20000000(Spawner:1)/100/7979ms - Switching Process In
+0x560f732b4100: exp_burst 26153807.916578, burst 30000000(Sleeper:6)/100/7989ms - Switching Process In
+	(Sleeper:6)/100/7994ms - Going to Sleep
+0x560f732b3e60: exp_burst 26153829.786650, burst 30000000(Spawner:1):(Interactive:7)/100/7995ms - Switching Process In
+0x560f732b3e60: exp_burst 15384609.928883, burst 10000000(Spawner:1):(Interactive:7)/100/7999ms - Switching Process In
+0x560f732b3e60: exp_burst 18461536.642961, burst 20000000(Spawner:1):(Interactive:7)/100/8009ms - Switching Process In
+0x560f732b3c70: exp_burst 26153829.868462, burst 30000000(Spawner:1)/100/8019ms - Switching Process In
+0x560f732b3c70: exp_burst 15384609.956154, burst 10000000(Spawner:1)/100/8029ms - Switching Process In
+0x560f732b3c70: exp_burst 18461536.652051, burst 20000000(Spawner:1)/100/8039ms - Switching Process In
+0x560f732b3e60: exp_burst 26153845.547654, burst 30000000(Spawner:1):(Interactive:7)/100/8049ms - Switching Process In
+0x560f732b3e60: exp_burst 15384615.182551, burst 10000000(Spawner:1):(Interactive:7)/100/8059ms - Switching Process In
+0x560f732b3e60: exp_burst 18461538.394184, burst 20000000(Spawner:1):(Interactive:7)/100/8069ms - Switching Process In
+0x560f732b3c70: exp_burst 26153845.550684, burst 30000000(Spawner:1)/100/8079ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.183561, burst 10000000(Spawner:1)/100/8089ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.394520, burst 20000000(Spawner:1)/100/8099ms - Switching Process In
+0x560f732b3e60: exp_burst 26153846.131395, burst 30000000(Spawner:1):(Interactive:7)/100/8109ms - Switching Process In
+0x560f732b3e60: exp_burst 15384615.377132, burst 10000000(Spawner:1):(Interactive:7)/100/8119ms - Switching Process In
+0x560f732b3e60: exp_burst 18461538.459044, burst 20000000(Spawner:1):(Interactive:7)/100/8129ms - Switching Process In
+0x560f732b3c70: exp_burst 26153846.131507, burst 30000000(Spawner:1)/100/8139ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.377169, burst 10000000(Spawner:1)/100/8149ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.459056, burst 20000000(Spawner:1)/100/8159ms - Switching Process In
+0x560f732b3e60: exp_burst 26153846.153015, burst 30000000(Spawner:1):(Interactive:7)/100/8169ms - Switching Process In
+0x560f732b3e60: exp_burst 15384615.384338, burst 10000000(Spawner:1):(Interactive:7)/100/8179ms - Switching Process In
+0x560f732b3e60: exp_burst 18461538.461446, burst 20000000(Spawner:1):(Interactive:7)/100/8189ms - Switching Process In
+0x560f732b3c70: exp_burst 26153846.153019, burst 30000000(Spawner:1)/100/8199ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.384340, burst 10000000(Spawner:1)/100/8209ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.461447, burst 20000000(Spawner:1)/100/8219ms - Switching Process In
+0x560f732b3e60: exp_burst 26153846.153815, burst 30000000(Spawner:1):(Interactive:7)/100/8229ms - Switching Process In
+0x560f732b3e60: exp_burst 15384615.384605, burst 10000000(Spawner:1):(Interactive:7)/100/8239ms - Switching Process In
+0x560f732b3e60: exp_burst 18461538.461535, burst 20000000(Spawner:1):(Interactive:7)/100/8249ms - Switching Process In
+0x560f732b3c70: exp_burst 26153846.153816, burst 30000000(Spawner:1)/100/8259ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.384605, burst 10000000(Spawner:1)/100/8269ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.461535, burst 20000000(Spawner:1)/100/8279ms - Switching Process In
+0x560f732b3e60: exp_burst 26153846.153845, burst 30000000(Spawner:1):(Interactive:7)/100/8289ms - Switching Process In
+0x560f732b3e60: exp_burst 15384615.384615, burst 10000000(Spawner:1):(Interactive:7)/100/8299ms - Switching Process In
+0x560f732b3e60: exp_burst 18461538.461538, burst 20000000(Spawner:1):(Interactive:7)/100/8309ms - Switching Process In
+0x560f732b3c70: exp_burst 26153846.153845, burst 30000000(Spawner:1)/100/8319ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.384615, burst 10000000(Spawner:1)/100/8329ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.461538, burst 20000000(Spawner:1)/100/8339ms - Switching Process In
+0x560f732b3e60: exp_burst 26153846.153846, burst 30000000(Spawner:1):(Interactive:7)/100/8349ms - Switching Process In
+0x560f732b3e60: exp_burst 15384615.384615, burst 10000000(Spawner:1):(Interactive:7)/100/8359ms - Switching Process In
+	(Spawner:1):(Interactive:7)/100/8369ms - Going to Sleep
+0x560f732b3c70: exp_burst 26153846.153846, burst 30000000(Spawner:1)/100/8370ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.384615, burst 10000000(Spawner:1)/100/8379ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.461538, burst 20000000(Spawner:1)/100/8389ms - Switching Process In
+0x560f732b3c70: exp_burst 26153846.153846, burst 30000000(Spawner:1)/100/8399ms - Switching Process In
+0x560f732b3f40: exp_burst 28833333.333309, burst 30000000(Non-Interactive:4)/100/8409ms - Switching Process In
+0x560f732b3f40: exp_burst 16277777.777770, burst 10000000(Non-Interactive:4)/100/8419ms - Switching Process In
+0x560f732b3f40: exp_burst 18759259.259257, burst 20000000(Non-Interactive:4)/100/8429ms - Switching Process In
+0x560f732b3f40: exp_burst 26253086.419752, burst 30000000(Non-Interactive:4)/100/8439ms - Switching Process In
+0x560f732b3c70: exp_burst 35384615.384615, burst 40000000(Spawner:1)/100/8449ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.461538, burst 10000000(Spawner:1)/100/8459ms - Switching Process In
+0x560f732b3c70: exp_burst 19487179.487179, burst 20000000(Spawner:1)/100/8469ms - Switching Process In
+0x560f732b3c70: exp_burst 26495726.495726, burst 30000000(Spawner:1)/100/8479ms - Switching Process In
+0x560f732b3f40: exp_burst 35417695.473251, burst 40000000(Non-Interactive:4)/100/8489ms - Switching Process In
+0x560f732b3f40: exp_burst 18472565.157750, burst 10000000(Non-Interactive:4)/100/8499ms - Switching Process In
+0x560f732b3f40: exp_burst 19490855.052583, burst 20000000(Non-Interactive:4)/100/8509ms - Switching Process In
+0x560f732b3f40: exp_burst 26496951.684194, burst 30000000(Non-Interactive:4)/100/8519ms - Switching Process In
+0x560f732b3c70: exp_burst 35498575.498576, burst 40000000(Spawner:1)/100/8529ms - Switching Process In
+0x560f732b3c70: exp_burst 18499525.166192, burst 10000000(Spawner:1)/100/8539ms - Switching Process In
+0x560f732b3c70: exp_burst 19499841.722064, burst 20000000(Spawner:1)/100/8549ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Sleeper:6)/100/8557ms - Waking Up from Sleep
+	(Spawner:1):(Interactive:7)/100/8557ms - Waking Up from Sleep
+0x560f732b4100: exp_burst 8717935.972193, burst 0(Sleeper:6)/100/8558ms - Switching Process In
+0x560f732b4100: exp_burst 9572645.324064, burst 10000000(Sleeper:6)/100/8559ms - Switching Process In
+0x560f732b4100: exp_burst 16524215.108021, burst 20000000(Sleeper:6)/100/8569ms - Switching Process In
+0x560f732b3e60: exp_burst 18461538.461538, burst 20000000(Spawner:1):(Interactive:7)/100/8579ms - Switching Process In
+0x560f732b3e60: exp_burst 12820512.820513, burst 10000000(Spawner:1):(Interactive:7)/100/8589ms - Switching Process In
+0x560f732b3e60: exp_burst 17606837.606838, burst 20000000(Spawner:1):(Interactive:7)/100/8599ms - Switching Process In
+	(Spawner:1):(Interactive:7)/100/8609ms - Going to Sleep
+0x560f732b3c70: exp_burst 19833280.574021, burst 20000000(Spawner:1)/100/8610ms - Switching Process In
+0x560f732b3c70: exp_burst 13277760.191340, burst 10000000(Spawner:1)/100/8619ms - Switching Process In
+0x560f732b3c70: exp_burst 17759253.397113, burst 20000000(Spawner:1)/100/8629ms - Switching Process In
+0x560f732b4100: exp_burst 25508071.702674, burst 30000000(Sleeper:6)/100/8639ms - Switching Process In
+0x560f732b4100: exp_burst 15169357.234225, burst 10000000(Sleeper:6)/100/8649ms - Switching Process In
+0x560f732b4100: exp_burst 18389785.744742, burst 20000000(Sleeper:6)/100/8659ms - Switching Process In
+0x560f732b3c70: exp_burst 25919751.132371, burst 30000000(Spawner:1)/100/8669ms - Switching Process In
+0x560f732b3c70: exp_burst 15306583.710790, burst 10000000(Spawner:1)/100/8679ms - Switching Process In
+0x560f732b3c70: exp_burst 18435527.903597, burst 20000000(Spawner:1)/100/8689ms - Switching Process In
+0x560f732b4100: exp_burst 26129928.581581, burst 30000000(Sleeper:6)/100/8699ms - Switching Process In
+0x560f732b4100: exp_burst 15376642.860527, burst 10000000(Sleeper:6)/100/8709ms - Switching Process In
+0x560f732b4100: exp_burst 18458880.953509, burst 20000000(Sleeper:6)/100/8719ms - Switching Process In
+0x560f732b3c70: exp_burst 26145175.967866, burst 30000000(Spawner:1)/100/8729ms - Switching Process In
+0x560f732b3c70: exp_burst 15381725.322622, burst 10000000(Spawner:1)/100/8739ms - Switching Process In
+0x560f732b3c70: exp_burst 18460575.107541, burst 20000000(Spawner:1)/100/8749ms - Switching Process In
+0x560f732b4100: exp_burst 26152960.317836, burst 30000000(Sleeper:6)/100/8759ms - Switching Process In
+0x560f732b4100: exp_burst 15384320.105945, burst 10000000(Sleeper:6)/100/8769ms - Switching Process In
+0x560f732b4100: exp_burst 18461440.035315, burst 20000000(Sleeper:6)/100/8779ms - Switching Process In
+0x560f732b3c70: exp_burst 26153525.035847, burst 30000000(Spawner:1)/100/8789ms - Switching Process In
+0x560f732b3c70: exp_burst 15384508.345282, burst 10000000(Spawner:1)/100/8799ms - Switching Process In
+0x560f732b3c70: exp_burst 18461502.781761, burst 20000000(Spawner:1)/100/8809ms - Switching Process In
+0x560f732b4100: exp_burst 26153813.345105, burst 30000000(Sleeper:6)/100/8819ms - Switching Process In
+0x560f732b4100: exp_burst 15384604.448368, burst 10000000(Sleeper:6)/100/8829ms - Switching Process In
+0x560f732b4100: exp_burst 18461534.816123, burst 20000000(Sleeper:6)/100/8839ms - Switching Process In
+0x560f732b3c70: exp_burst 26153834.260587, burst 30000000(Spawner:1)/100/8849ms - Switching Process In
+0x560f732b3c70: exp_burst 15384611.420196, burst 10000000(Spawner:1)/100/8859ms - Switching Process In
+0x560f732b3c70: exp_burst 18461537.140065, burst 20000000(Spawner:1)/100/8869ms - Switching Process In
+0x560f732b4100: exp_burst 26153844.938708, burst 30000000(Sleeper:6)/100/8879ms - Switching Process In
+0x560f732b4100: exp_burst 15384614.979569, burst 10000000(Sleeper:6)/100/8889ms - Switching Process In
+0x560f732b4100: exp_burst 18461538.326523, burst 20000000(Sleeper:6)/100/8899ms - Switching Process In
+0x560f732b3c70: exp_burst 26153845.713355, burst 30000000(Spawner:1)/100/8909ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.237785, burst 10000000(Spawner:1)/100/8919ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.412595, burst 20000000(Spawner:1)/100/8929ms - Switching Process In
+0x560f732b4100: exp_burst 26153846.108841, burst 30000000(Sleeper:6)/100/8939ms - Switching Process In
+0x560f732b4100: exp_burst 15384615.369614, burst 10000000(Sleeper:6)/100/8949ms - Switching Process In
+0x560f732b4100: exp_burst 18461538.456538, burst 20000000(Sleeper:6)/100/8959ms - Switching Process In
+0x560f732b3c70: exp_burst 26153846.137532, burst 30000000(Spawner:1)/100/8969ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.379177, burst 10000000(Spawner:1)/100/8979ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.459726, burst 20000000(Spawner:1)/100/8989ms - Switching Process In
+0x560f732b4100: exp_burst 26153846.152179, burst 30000000(Sleeper:6)/100/8999ms - Switching Process In
+0x560f732b4100: exp_burst 15384615.384060, burst 10000000(Sleeper:6)/100/9009ms - Switching Process In
+0x560f732b4100: exp_burst 18461538.461353, burst 20000000(Sleeper:6)/100/9019ms - Switching Process In
+	(Sleeper:6)/100/9029ms - Going to Sleep
+0x560f732b3c70: exp_burst 26153846.153242, burst 30000000(Spawner:1)/100/9030ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.384414, burst 10000000(Spawner:1)/100/9039ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.461471, burst 20000000(Spawner:1)/100/9049ms - Switching Process In
+0x560f732b3c70: exp_burst 26153846.153824, burst 30000000(Spawner:1)/100/9059ms - Switching Process In
+0x560f732b3c70: exp_burst 35384615.384608, burst 40000000(Spawner:1)/100/9069ms - Switching Process In
+0x560f732b3f40: exp_burst 35498983.894731, burst 40000000(Non-Interactive:4)/100/9079ms - Switching Process In
+0x560f732b3f40: exp_burst 18499661.298244, burst 10000000(Non-Interactive:4)/100/9089ms - Switching Process In
+0x560f732b3f40: exp_burst 19499887.099415, burst 20000000(Non-Interactive:4)/100/9099ms - Switching Process In
+	(Non-Interactive:4)/100/9107ms - Going to Sleep
+0x560f732b3c70: exp_burst 45128205.128203, burst 50000000(Spawner:1)/100/9108ms - Switching Process In
+0x560f732b3c70: exp_burst 21709401.709401, burst 10000000(Spawner:1)/100/9109ms - Switching Process In
+0x560f732b3c70: exp_burst 20569800.569800, burst 20000000(Spawner:1)/100/9119ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Spawner:1):(Interactive:7)/100/9121ms - Waking Up from Sleep
+	(Sleeper:6)/100/9121ms - Waking Up from Sleep
+	(Non-Interactive:4)/100/9121ms - Waking Up from Sleep
+0x560f732b3f40: exp_burst 19833295.699805, burst 20000000(Non-Interactive:4)/100/9122ms - Switching Process In
+0x560f732b3f40: exp_burst 13277765.233268, burst 10000000(Non-Interactive:4)/100/9129ms - Switching Process In
+0x560f732b3f40: exp_burst 17759255.077756, burst 20000000(Non-Interactive:4)/100/9139ms - Switching Process In
+0x560f732b3c70: exp_burst 20189933.523267, burst 20000000(Spawner:1)/100/9149ms - Switching Process In
+0x560f732b3c70: exp_burst 13396644.507756, burst 10000000(Spawner:1)/100/9159ms - Switching Process In
+0x560f732b3c70: exp_burst 17798881.502585, burst 20000000(Spawner:1)/100/9169ms - Switching Process In
+0x560f732b3e60: exp_burst 25868945.868946, burst 30000000(Spawner:1):(Interactive:7)/100/9179ms - Switching Process In
+0x560f732b3e60: exp_burst 15289648.622982, burst 10000000(Spawner:1):(Interactive:7)/100/9189ms - Switching Process In
+0x560f732b3e60: exp_burst 18429882.874327, burst 20000000(Spawner:1):(Interactive:7)/100/9199ms - Switching Process In
+0x560f732b3f40: exp_burst 25919751.692585, burst 30000000(Non-Interactive:4)/100/9209ms - Switching Process In
+	(Non-Interactive:4)/100/9219ms - Going to Sleep
+0x560f732b3c70: exp_burst 25932960.500862, burst 30000000(Spawner:1)/100/9220ms - Switching Process In
+0x560f732b3c70: exp_burst 15310986.833621, burst 10000000(Spawner:1)/100/9229ms - Switching Process In
+0x560f732b3c70: exp_burst 18436995.611207, burst 20000000(Spawner:1)/100/9239ms - Switching Process In
+0x560f732b3e60: exp_burst 26143294.291442, burst 30000000(Spawner:1):(Interactive:7)/100/9249ms - Switching Process In
+0x560f732b3e60: exp_burst 15381098.097147, burst 10000000(Spawner:1):(Interactive:7)/100/9259ms - Switching Process In
+0x560f732b3e60: exp_burst 18460366.032382, burst 20000000(Spawner:1):(Interactive:7)/100/9269ms - Switching Process In
+0x560f732b3c70: exp_burst 26145665.203736, burst 30000000(Spawner:1)/100/9279ms - Switching Process In
+0x560f732b3c70: exp_burst 15381888.401245, burst 10000000(Spawner:1)/100/9289ms - Switching Process In
+0x560f732b3c70: exp_burst 18460629.467082, burst 20000000(Spawner:1)/100/9299ms - Switching Process In
+0x560f732b3e60: exp_burst 26153455.344127, burst 30000000(Spawner:1):(Interactive:7)/100/9309ms - Switching Process In
+0x560f732b3e60: exp_burst 15384485.114709, burst 10000000(Spawner:1):(Interactive:7)/100/9319ms - Switching Process In
+0x560f732b3e60: exp_burst 18461495.038236, burst 20000000(Spawner:1):(Interactive:7)/100/9329ms - Switching Process In
+0x560f732b3c70: exp_burst 26153543.155694, burst 30000000(Spawner:1)/100/9339ms - Switching Process In
+0x560f732b3c70: exp_burst 15384514.385231, burst 10000000(Spawner:1)/100/9349ms - Switching Process In
+0x560f732b3c70: exp_burst 18461504.795077, burst 20000000(Spawner:1)/100/9359ms - Switching Process In
+0x560f732b3e60: exp_burst 26153831.679412, burst 30000000(Spawner:1):(Interactive:7)/100/9369ms - Switching Process In
+0x560f732b3e60: exp_burst 15384610.559804, burst 10000000(Spawner:1):(Interactive:7)/100/9379ms - Switching Process In
+0x560f732b3e60: exp_burst 18461536.853268, burst 20000000(Spawner:1):(Interactive:7)/100/9389ms - Switching Process In
+0x560f732b3c70: exp_burst 26153834.931692, burst 30000000(Spawner:1)/100/9399ms - Switching Process In
+0x560f732b3c70: exp_burst 15384611.643897, burst 10000000(Spawner:1)/100/9409ms - Switching Process In
+0x560f732b3c70: exp_burst 18461537.214632, burst 20000000(Spawner:1)/100/9419ms - Switching Process In
+0x560f732b3e60: exp_burst 26153845.617756, burst 30000000(Spawner:1):(Interactive:7)/100/9429ms - Switching Process In
+0x560f732b3e60: exp_burst 15384615.205919, burst 10000000(Spawner:1):(Interactive:7)/100/9439ms - Switching Process In
+0x560f732b3e60: exp_burst 18461538.401973, burst 20000000(Spawner:1):(Interactive:7)/100/9449ms - Switching Process In
+0x560f732b3c70: exp_burst 26153845.738211, burst 30000000(Spawner:1)/100/9459ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.246070, burst 10000000(Spawner:1)/100/9469ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.415357, burst 20000000(Spawner:1)/100/9479ms - Switching Process In
+0x560f732b3e60: exp_burst 26153846.133991, burst 30000000(Spawner:1):(Interactive:7)/100/9489ms - Switching Process In
+0x560f732b3e60: exp_burst 15384615.377997, burst 10000000(Spawner:1):(Interactive:7)/100/9499ms - Switching Process In
+0x560f732b3e60: exp_burst 18461538.459332, burst 20000000(Spawner:1):(Interactive:7)/100/9509ms - Switching Process In
+0x560f732b3c70: exp_burst 26153846.138452, burst 30000000(Spawner:1)/100/9519ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.379484, burst 10000000(Spawner:1)/100/9529ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.459828, burst 20000000(Spawner:1)/100/9539ms - Switching Process In
+0x560f732b3e60: exp_burst 26153846.153111, burst 30000000(Spawner:1):(Interactive:7)/100/9549ms - Switching Process In
+0x560f732b3e60: exp_burst 15384615.384370, burst 10000000(Spawner:1):(Interactive:7)/100/9559ms - Switching Process In
+0x560f732b3e60: exp_burst 18461538.461457, burst 20000000(Spawner:1):(Interactive:7)/100/9569ms - Switching Process In
+0x560f732b3c70: exp_burst 26153846.153276, burst 30000000(Spawner:1)/100/9579ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.384425, burst 10000000(Spawner:1)/100/9589ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.461475, burst 20000000(Spawner:1)/100/9599ms - Switching Process In
+0x560f732b4100: exp_burst 26153846.153784, burst 30000000(Sleeper:6)/100/9609ms - Switching Process In
+0x560f732b4100: exp_burst 15384615.384595, burst 10000000(Sleeper:6)/100/9619ms - Switching Process In
+0x560f732b4100: exp_burst 18461538.461532, burst 20000000(Sleeper:6)/100/9629ms - Switching Process In
+0x560f732b3e60: exp_burst 26153846.153819, burst 30000000(Spawner:1):(Interactive:7)/100/9639ms - Switching Process In
+	(Spawner:1):(Interactive:7)/100/9648ms - Going to Sleep
+0x560f732b3c70: exp_burst 26153846.153825, burst 30000000(Spawner:1)/100/9649ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.384608, burst 10000000(Spawner:1)/100/9649ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.461536, burst 20000000(Spawner:1)/100/9659ms - Switching Process In
+0x560f732b4100: exp_burst 26153846.153844, burst 30000000(Sleeper:6)/100/9669ms - Switching Process In
+0x560f732b4100: exp_burst 15384615.384615, burst 10000000(Sleeper:6)/100/9679ms - Switching Process In
+0x560f732b4100: exp_burst 18461538.461538, burst 20000000(Sleeper:6)/100/9689ms - Switching Process In
+0x560f732b3c70: exp_burst 26153846.153845, burst 30000000(Spawner:1)/100/9699ms - Switching Process In
+0x560f732b3c70: exp_burst 15384615.384615, burst 10000000(Spawner:1)/100/9709ms - Switching Process In
+0x560f732b3c70: exp_burst 18461538.461538, burst 20000000(Spawner:1)/100/9719ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Non-Interactive:4)/100/9722ms - Waking Up from Sleep
+	(Spawner:1):(Interactive:7)/100/9722ms - Waking Up from Sleep
+0x560f732b3e60: exp_burst 8717948.717940, burst 0(Spawner:1):(Interactive:7)/100/9723ms - Switching Process In
+0x560f732b3e60: exp_burst 9572649.572647, burst 10000000(Spawner:1):(Interactive:7)/100/9729ms - Switching Process In
+0x560f732b3f40: exp_burst 15306583.897528, burst 10000000(Non-Interactive:4)/100/9739ms - Switching Process In
+0x560f732b3f40: exp_burst 11768861.299176, burst 10000000(Non-Interactive:4)/100/9749ms - Switching Process In
+0x560f732b3e60: exp_burst 16524216.524216, burst 20000000(Spawner:1):(Interactive:7)/100/9759ms - Switching Process In
+0x560f732b3e60: exp_burst 12174738.841405, burst 10000000(Spawner:1):(Interactive:7)/100/9769ms - Switching Process In
+0x560f732b3f40: exp_burst 17256287.099725, burst 20000000(Non-Interactive:4)/100/9779ms - Switching Process In
+	(Non-Interactive:4)/100/9789ms - Going to Sleep
+0x560f732b3e60: exp_burst 17391579.613802, burst 20000000(Spawner:1):(Interactive:7)/100/9790ms - Switching Process In
+0x560f732b3e60: exp_burst 12463859.871267, burst 10000000(Spawner:1):(Interactive:7)/100/9799ms - Switching Process In
+0x560f732b3e60: exp_burst 17487953.290422, burst 20000000(Spawner:1):(Interactive:7)/100/9809ms - Switching Process In
+0x560f732b3c70: exp_burst 19487179.487179, burst 20000000(Spawner:1)/100/9819ms - Switching Process In
+0x560f732b3c70: exp_burst 13162393.162393, burst 10000000(Spawner:1)/100/9829ms - Switching Process In
+0x560f732b3c70: exp_burst 17720797.720798, burst 20000000(Spawner:1)/100/9839ms - Switching Process In
+0x560f732b3e60: exp_burst 25829317.763474, burst 30000000(Spawner:1):(Interactive:7)/100/9849ms - Switching Process In
+0x560f732b3e60: exp_burst 15276439.254491, burst 10000000(Spawner:1):(Interactive:7)/100/9859ms - Switching Process In
+	(Spawner:1):(Interactive:7)/100/9869ms - Going to Sleep
+0x560f732b3c70: exp_burst 25906932.573599, burst 30000000(Spawner:1)/100/9870ms - Switching Process In
+0x560f732b3c70: exp_burst 15302310.857866, burst 10000000(Spawner:1)/100/9879ms - Switching Process In
+0x560f732b3c70: exp_burst 18434103.619289, burst 20000000(Spawner:1)/100/9889ms - Switching Process In
+0x560f732b3c70: exp_burst 26144701.206430, burst 30000000(Spawner:1)/100/9899ms - Switching Process In
+0x560f732b4100: exp_burst 26153846.153846, burst 30000000(Sleeper:6)/100/9909ms - Switching Process In
+0x560f732b4100: exp_burst 15384615.384615, burst 10000000(Sleeper:6)/100/9919ms - Switching Process In
+0x560f732b4100: exp_burst 18461538.461538, burst 20000000(Sleeper:6)/100/9929ms - Switching Process In
+0x560f732b4100: exp_burst 26153846.153846, burst 30000000(Sleeper:6)/100/9939ms - Switching Process In
+0x560f732b3c70: exp_burst 35381567.068810, burst 40000000(Spawner:1)/100/9949ms - Switching Process In
+0x560f732b3c70: exp_burst 18460522.356270, burst 10000000(Spawner:1)/100/9959ms - Switching Process In
+0x560f732b3c70: exp_burst 19486840.785423, burst 20000000(Spawner:1)/100/9969ms - Switching Process In
+0x560f732b3c70: exp_burst 26495613.595141, burst 30000000(Spawner:1)/100/9979ms - Switching Process In
+0x560f732b4100: exp_burst 35384615.384615, burst 40000000(Sleeper:6)/100/9989ms - Switching Process In
+0x560f732b4100: exp_burst 18461538.461538, burst 10000000(Sleeper:6)/100/9999ms - Switching Process In
+###-Sending Kill Message-###
+###-Process: (Sleeper:6) is going down-###
+0x560f732b3c70: exp_burst 35498537.865047, burst 40000000(Spawner:1)/100/10000ms - Switching Process In
+0x560f732b3c70: exp_burst 18499512.621682, burst 10000000(Spawner:1)/100/10009ms - Switching Process In
+0x560f732b3c70: exp_burst 19499837.540561, burst 20000000(Spawner:1)/100/10019ms - Switching Process In
+0x560f732b3c70: exp_burst 26499945.846854, burst 30000000(Spawner:1)/100/10029ms - Switching Process In
+0x560f732b3c70: exp_burst 35499981.948951, burst 40000000(Spawner:1)/100/10039ms - Switching Process In
+0x560f732b3c70: exp_burst 45166660.649650, burst 50000000(Spawner:1)/100/10049ms - Switching Process In
+0x560f732b3c70: exp_burst 55055553.549883, burst 60000000(Spawner:1)/100/10059ms - Switching Process In
+0x560f732b3c70: exp_burst 65018517.849961, burst 70000000(Spawner:1)/100/10069ms - Switching Process In
+0x560f732b3c70: exp_burst 75006172.616654, burst 80000000(Spawner:1)/100/10079ms - Switching Process In
+0x560f732b3c70: exp_burst 85002057.538885, burst 90000000(Spawner:1)/100/10089ms - Switching Process In
+0x560f732b3c70: exp_burst 95000685.846295, burst 100000000(Spawner:1)/100/10099ms - Switching Process In
+0x560f732b4020: exp_burst 95000849.800178, burst 100000000(Interactive:5)/100/10109ms - Switching Process In
+###-Process: (Interactive:5) is going down-###
+0x560f732b3c70: exp_burst 105000228.615432, burst 110000000(Spawner:1)/100/10110ms - Switching Process In
+0x560f732b3c70: exp_burst 41666742.871811, burst 10000000(Spawner:1)/100/10119ms - Switching Process In
+0x560f732b3c70: exp_burst 27222247.623937, burst 20000000(Spawner:1)/100/10129ms - Switching Process In
+0x560f732b3c70: exp_burst 29074082.541312, burst 30000000(Spawner:1)/100/10139ms - Switching Process In
+0x560f732b3c70: exp_burst 36358027.513771, burst 40000000(Spawner:1)/100/10149ms - Switching Process In
+0x560f732b3c70: exp_burst 45452675.837924, burst 50000000(Spawner:1)/100/10159ms - Switching Process In
+0x560f732b3c70: exp_burst 55150891.945975, burst 60000000(Spawner:1)/100/10169ms - Switching Process In
+0x560f732b3c70: exp_burst 65050297.315325, burst 70000000(Spawner:1)/100/10179ms - Switching Process In
+0x560f732b3c70: exp_burst 75016765.771775, burst 80000000(Spawner:1)/100/10189ms - Switching Process In
+0x560f732b3c70: exp_burst 85005588.590592, burst 90000000(Spawner:1)/100/10199ms - Switching Process In
+0x560f732b3c70: exp_burst 95001862.863531, burst 100000000(Spawner:1)/100/10209ms - Switching Process In
+0x560f732b3c70: exp_burst 105000620.954510, burst 110000000(Spawner:1)/100/10219ms - Switching Process In
+0x560f732b3d50: exp_burst 105000620.956725, burst 110000000(Spawner:1):(Non-Interactive:2)/100/10229ms - Switching Process In
+###-Process: (Spawner:1):(Non-Interactive:2) is going down-###
+0x560f732b3c70: exp_burst 115000206.984837, burst 120000000(Spawner:1)/100/10230ms - Switching Process In
+0x560f732b3c70: exp_burst 45000068.994946, burst 10000000(Spawner:1)/100/10239ms - Switching Process In
+0x560f732b3c70: exp_burst 28333356.331649, burst 20000000(Spawner:1)/100/10249ms - Switching Process In
+0x560f732b3c70: exp_burst 29444452.110550, burst 30000000(Spawner:1)/100/10259ms - Switching Process In
+0x560f732b3c70: exp_burst 36481484.036850, burst 40000000(Spawner:1)/100/10269ms - Switching Process In
+0x560f732b3c70: exp_burst 45493828.012283, burst 50000000(Spawner:1)/100/10279ms - Switching Process In
+0x560f732b3c70: exp_burst 55164609.337428, burst 60000000(Spawner:1)/100/10289ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Non-Interactive:4)/100/10289ms - Waking Up from Sleep
+	(Spawner:1):(Interactive:7)/100/10289ms - Waking Up from Sleep
+0x560f732b3f40: exp_burst 12418762.366575, burst 10000000(Non-Interactive:4)/100/10290ms - Switching Process In
+###-Process: (Non-Interactive:4) is going down-###
+0x560f732b3e60: exp_burst 18425479.751497, burst 20000000(Spawner:1):(Interactive:7)/100/10290ms - Switching Process In
+###-Process: (Spawner:1):(Interactive:7) is going down-###
+0x560f732b3c70: exp_burst 58388203.112476, burst 60000000(Spawner:1)/100/10290ms - Switching Process In
+###-Process: (Spawner:1) is going down-###
+LONELY 0x560f732b22a0(Init:0)/0/10290ms - Switching Process In
+###-Process: (Init:0) is going down-###
+###-Shutting Down CPU-###

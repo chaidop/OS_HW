@@ -1,0 +1,128 @@
+###-Starting CPU-###
+(Init:0)/0/0ms - Switching Process In
+(Init:0)/0/9ms - Switching Process In
+(Init:0)/0/19ms - Switching Process In
+(Init:0)/0/29ms - Switching Process In
+(Init:0)/0/39ms - Switching Process In
+###-Process: (Papakia:1) has been created-###
+In sched_fork
+In wake_up_new_task
+(Papakia:1)/100/40ms - Switching Process In
+(Papakia:1)/100/49ms - Switching Process In
+###-Process: (Vatraxakia:2) has been created-###
+In sched_fork
+In wake_up_new_task
+(Vatraxakia:2)/100/50ms - Switching Process In
+(Vatraxakia:2)/100/59ms - Switching Process In
+(Vatraxakia:2)/100/69ms - Switching Process In
+(Vatraxakia:2)/100/79ms - Switching Process In
+(Vatraxakia:2)/100/89ms - Switching Process In
+(Vatraxakia:2)/100/99ms - Switching Process In
+(Vatraxakia:2)/100/109ms - Switching Process In
+(Vatraxakia:2)/100/119ms - Switching Process In
+(Vatraxakia:2)/100/129ms - Switching Process In
+(Vatraxakia:2)/100/139ms - Switching Process In
+(Vatraxakia:2)/100/149ms - Switching Process In
+(Vatraxakia:2)/100/159ms - Switching Process In
+(Vatraxakia:2)/100/169ms - Switching Process In
+(Vatraxakia:2)/100/179ms - Switching Process In
+(Vatraxakia:2)/100/189ms - Switching Process In
+(Vatraxakia:2)/100/199ms - Switching Process In
+(Vatraxakia:2)/100/209ms - Switching Process In
+(Vatraxakia:2)/100/219ms - Switching Process In
+(Vatraxakia:2)/100/229ms - Switching Process In
+(Vatraxakia:2)/100/239ms - Switching Process In
+(Vatraxakia:2)/100/249ms - Switching Process In
+(Vatraxakia:2)/100/259ms - Switching Process In
+(Vatraxakia:2)/100/269ms - Switching Process In
+(Vatraxakia:2)/100/279ms - Switching Process In
+(Vatraxakia:2)/100/289ms - Switching Process In
+(Vatraxakia:2)/100/299ms - Switching Process In
+(Vatraxakia:2)/100/309ms - Switching Process In
+(Vatraxakia:2)/100/319ms - Switching Process In
+(Vatraxakia:2)/100/329ms - Switching Process In
+(Vatraxakia:2)/100/339ms - Switching Process In
+(Vatraxakia:2)/100/349ms - Switching Process In
+(Vatraxakia:2)/100/359ms - Switching Process In
+(Vatraxakia:2)/100/369ms - Switching Process In
+(Vatraxakia:2)/100/379ms - Switching Process In
+(Vatraxakia:2)/100/389ms - Switching Process In
+(Vatraxakia:2)/100/399ms - Switching Process In
+(Vatraxakia:2)/100/409ms - Switching Process In
+(Vatraxakia:2)/100/419ms - Switching Process In
+(Vatraxakia:2)/100/429ms - Switching Process In
+(Vatraxakia:2)/100/439ms - Switching Process In
+(Vatraxakia:2)/100/449ms - Switching Process In
+	(Vatraxakia:2)/100/455ms - Going to Sleep
+(Papakia:1)/100/456ms - Switching Process In
+(Papakia:1)/100/459ms - Switching Process In
+(Papakia:1)/100/469ms - Switching Process In
+(Papakia:1)/100/479ms - Switching Process In
+(Papakia:1)/100/489ms - Switching Process In
+(Papakia:1)/100/499ms - Switching Process In
+(Papakia:1)/100/509ms - Switching Process In
+(Papakia:1)/100/519ms - Switching Process In
+(Papakia:1)/100/529ms - Switching Process In
+(Papakia:1)/100/539ms - Switching Process In
+(Papakia:1)/100/549ms - Switching Process In
+(Papakia:1)/100/559ms - Switching Process In
+(Papakia:1)/100/569ms - Switching Process In
+(Papakia:1)/100/579ms - Switching Process In
+(Papakia:1)/100/589ms - Switching Process In
+(Papakia:1)/100/599ms - Switching Process In
+(Papakia:1)/100/609ms - Switching Process In
+(Papakia:1)/100/619ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Vatraxakia:2)/100/621ms - Waking Up from Sleep
+(Vatraxakia:2)/100/622ms - Switching Process In
+(Vatraxakia:2)/100/629ms - Switching Process In
+(Vatraxakia:2)/100/639ms - Switching Process In
+(Vatraxakia:2)/100/649ms - Switching Process In
+(Vatraxakia:2)/100/659ms - Switching Process In
+(Vatraxakia:2)/100/669ms - Switching Process In
+(Vatraxakia:2)/100/679ms - Switching Process In
+(Vatraxakia:2)/100/689ms - Switching Process In
+(Vatraxakia:2)/100/699ms - Switching Process In
+(Vatraxakia:2)/100/709ms - Switching Process In
+(Vatraxakia:2)/100/719ms - Switching Process In
+(Vatraxakia:2)/100/729ms - Switching Process In
+(Vatraxakia:2)/100/739ms - Switching Process In
+(Vatraxakia:2)/100/749ms - Switching Process In
+(Vatraxakia:2)/100/759ms - Switching Process In
+	(Vatraxakia:2)/100/766ms - Going to Sleep
+(Papakia:1)/100/767ms - Switching Process In
+(Papakia:1)/100/769ms - Switching Process In
+(Papakia:1)/100/779ms - Switching Process In
+(Papakia:1)/100/789ms - Switching Process In
+CDA: thread (Papakia:1) finished
+###-Process: (Papakia:1) is going down-###
+(Init:0)/0/791ms - Switching Process In
+(Init:0)/0/799ms - Switching Process In
+(Init:0)/0/809ms - Switching Process In
+(Init:0)/0/819ms - Switching Process In
+(Init:0)/0/829ms - Switching Process In
+(Init:0)/0/839ms - Switching Process In
+(Init:0)/0/849ms - Switching Process In
+(Init:0)/0/859ms - Switching Process In
+(Init:0)/0/869ms - Switching Process In
+(Init:0)/0/879ms - Switching Process In
+(Init:0)/0/889ms - Switching Process In
+(Init:0)/0/899ms - Switching Process In
+###-An Interrupt has fired!-###
+	(Vatraxakia:2)/100/903ms - Waking Up from Sleep
+(Vatraxakia:2)/100/904ms - Switching Process In
+###-Process: (Vatraxakia:2) is going down-###
+(Init:0)/0/904ms - Switching Process In
+(Init:0)/0/909ms - Switching Process In
+(Init:0)/0/919ms - Switching Process In
+(Init:0)/0/929ms - Switching Process In
+(Init:0)/0/939ms - Switching Process In
+(Init:0)/0/949ms - Switching Process In
+(Init:0)/0/959ms - Switching Process In
+(Init:0)/0/969ms - Switching Process In
+(Init:0)/0/979ms - Switching Process In
+(Init:0)/0/989ms - Switching Process In
+(Init:0)/0/999ms - Switching Process In
+###-Sending Kill Message-###
+###-Process: (Init:0) is going down-###
+###-Shutting Down CPU-###

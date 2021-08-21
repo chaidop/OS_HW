@@ -1,0 +1,163 @@
+###-Starting CPU-###
+(Init:0)/0/0ms - Switching Process In
+(Init:0)/0/9ms - Switching Process In
+###-Process: (AA:1) has been created-###
+In sched_fork
+In wake_up_new_task
+(AA:1)/100/10ms - Switching Process In
+###-Process: (AA:1):(AAKID1:2) has been created-###
+In sched_fork
+In wake_up_new_task
+(AA:1):(AAKID1:2)/100/15ms - Switching Process In
+(AA:1)/100/19ms - Switching Process In
+###-Process: (AA:1):(AAKID11:3) has been created-###
+In sched_fork
+In wake_up_new_task
+(AA:1):(AAKID11:3)/100/20ms - Switching Process In
+(AA:1)/100/29ms - Switching Process In
+(AA:1):(AAKID1:2)/100/39ms - Switching Process In
+###-Process: (AA:1):(AAKID1:2):(AAKID2:4) has been created-###
+In sched_fork
+In wake_up_new_task
+(AA:1):(AAKID1:2):(AAKID2:4)/100/40ms - Switching Process In
+###-Process: (AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5) has been created-###
+In sched_fork
+In wake_up_new_task
+(AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5)/100/40ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4)/100/49ms - Switching Process In
+(AA:1):(AAKID1:2)/100/59ms - Switching Process In
+(AA:1):(AAKID11:3)/100/69ms - Switching Process In
+(AA:1)/100/79ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5)/100/89ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5)/100/99ms - Switching Process In
+	(AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5)/100/107ms - Going to Sleep
+(AA:1):(AAKID1:2):(AAKID2:4)/100/108ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4)/100/109ms - Switching Process In
+(AA:1):(AAKID1:2)/100/119ms - Switching Process In
+(AA:1):(AAKID11:3)/100/129ms - Switching Process In
+(AA:1)/100/139ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4)/100/149ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4)/100/159ms - Switching Process In
+(AA:1):(AAKID1:2)/100/169ms - Switching Process In
+(AA:1):(AAKID11:3)/100/179ms - Switching Process In
+(AA:1)/100/189ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4)/100/199ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4)/100/209ms - Switching Process In
+(AA:1):(AAKID1:2)/100/219ms - Switching Process In
+(AA:1):(AAKID11:3)/100/229ms - Switching Process In
+(AA:1)/100/239ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4)/100/249ms - Switching Process In
+###-An Interrupt has fired!-###
+	(AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5)/100/251ms - Waking Up from Sleep
+(AA:1):(AAKID1:2)/100/251ms - Switching Process In
+(AA:1):(AAKID11:3)/100/259ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5)/100/269ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4)/100/279ms - Switching Process In
+(AA:1)/100/289ms - Switching Process In
+(AA:1):(AAKID1:2)/100/299ms - Switching Process In
+(AA:1):(AAKID11:3)/100/309ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5)/100/319ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5)/100/329ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4)/100/339ms - Switching Process In
+(AA:1)/100/349ms - Switching Process In
+(AA:1):(AAKID1:2)/100/359ms - Switching Process In
+(AA:1):(AAKID11:3)/100/369ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5)/100/379ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5)/100/389ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4)/100/399ms - Switching Process In
+(AA:1)/100/409ms - Switching Process In
+(AA:1):(AAKID1:2)/100/419ms - Switching Process In
+(AA:1):(AAKID11:3)/100/429ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5)/100/439ms - Switching Process In
+(AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5)/100/449ms - Switching Process In
+###-Process: (AA:1):(AAKID1:2):(AAKID2:4):(AAKID3:5) is going down-###
+(AA:1):(AAKID1:2):(AAKID2:4)/100/452ms - Switching Process In
+###-Process: (AA:1):(AAKID1:2):(AAKID2:4) is going down-###
+(AA:1)/100/458ms - Switching Process In
+(AA:1):(AAKID1:2)/100/459ms - Switching Process In
+(AA:1):(AAKID11:3)/100/469ms - Switching Process In
+(AA:1):(AAKID11:3)/100/479ms - Switching Process In
+(AA:1)/100/489ms - Switching Process In
+(AA:1):(AAKID1:2)/100/499ms - Switching Process In
+###-Process: (AA:1):(AAKID1:2) is going down-###
+(AA:1):(AAKID11:3)/100/506ms - Switching Process In
+(AA:1):(AAKID11:3)/100/509ms - Switching Process In
+	(AA:1):(AAKID11:3)/100/515ms - Going to Sleep
+(AA:1)/100/516ms - Switching Process In
+(AA:1)/100/519ms - Switching Process In
+(AA:1)/100/529ms - Switching Process In
+(AA:1)/100/539ms - Switching Process In
+(AA:1)/100/549ms - Switching Process In
+(AA:1)/100/559ms - Switching Process In
+(AA:1)/100/569ms - Switching Process In
+(AA:1)/100/579ms - Switching Process In
+(AA:1)/100/589ms - Switching Process In
+(AA:1)/100/599ms - Switching Process In
+(AA:1)/100/609ms - Switching Process In
+(AA:1)/100/619ms - Switching Process In
+(AA:1)/100/629ms - Switching Process In
+(AA:1)/100/639ms - Switching Process In
+(AA:1)/100/649ms - Switching Process In
+(AA:1)/100/659ms - Switching Process In
+(AA:1)/100/669ms - Switching Process In
+(AA:1)/100/679ms - Switching Process In
+(AA:1)/100/689ms - Switching Process In
+(AA:1)/100/699ms - Switching Process In
+(AA:1)/100/709ms - Switching Process In
+(AA:1)/100/719ms - Switching Process In
+(AA:1)/100/729ms - Switching Process In
+(AA:1)/100/739ms - Switching Process In
+(AA:1)/100/749ms - Switching Process In
+(AA:1)/100/759ms - Switching Process In
+(AA:1)/100/769ms - Switching Process In
+(AA:1)/100/779ms - Switching Process In
+(AA:1)/100/789ms - Switching Process In
+(AA:1)/100/799ms - Switching Process In
+###-Sending Kill Message-###
+(AA:1)/100/809ms - Switching Process In
+(AA:1)/100/819ms - Switching Process In
+(AA:1)/100/829ms - Switching Process In
+(AA:1)/100/839ms - Switching Process In
+(AA:1)/100/849ms - Switching Process In
+(AA:1)/100/859ms - Switching Process In
+(AA:1)/100/869ms - Switching Process In
+(AA:1)/100/879ms - Switching Process In
+(AA:1)/100/889ms - Switching Process In
+(AA:1)/100/899ms - Switching Process In
+(AA:1)/100/909ms - Switching Process In
+(AA:1)/100/919ms - Switching Process In
+(AA:1)/100/929ms - Switching Process In
+(AA:1)/100/939ms - Switching Process In
+(AA:1)/100/949ms - Switching Process In
+(AA:1)/100/959ms - Switching Process In
+(AA:1)/100/969ms - Switching Process In
+(AA:1)/100/979ms - Switching Process In
+(AA:1)/100/989ms - Switching Process In
+(AA:1)/100/999ms - Switching Process In
+(AA:1)/100/1009ms - Switching Process In
+(AA:1)/100/1019ms - Switching Process In
+(AA:1)/100/1029ms - Switching Process In
+(AA:1)/100/1039ms - Switching Process In
+(AA:1)/100/1049ms - Switching Process In
+(AA:1)/100/1059ms - Switching Process In
+(AA:1)/100/1069ms - Switching Process In
+(AA:1)/100/1079ms - Switching Process In
+(AA:1)/100/1089ms - Switching Process In
+(AA:1)/100/1099ms - Switching Process In
+(AA:1)/100/1109ms - Switching Process In
+(AA:1)/100/1119ms - Switching Process In
+(AA:1)/100/1129ms - Switching Process In
+(AA:1)/100/1139ms - Switching Process In
+(AA:1)/100/1149ms - Switching Process In
+(AA:1)/100/1159ms - Switching Process In
+(AA:1)/100/1169ms - Switching Process In
+(AA:1)/100/1179ms - Switching Process In
+###-An Interrupt has fired!-###
+	(AA:1):(AAKID11:3)/100/1183ms - Waking Up from Sleep
+(AA:1):(AAKID11:3)/100/1184ms - Switching Process In
+###-Process: (AA:1):(AAKID11:3) is going down-###
+(AA:1)/100/1184ms - Switching Process In
+###-Process: (AA:1) is going down-###
+(Init:0)/0/1184ms - Switching Process In
+###-Process: (Init:0) is going down-###
+###-Shutting Down CPU-###
