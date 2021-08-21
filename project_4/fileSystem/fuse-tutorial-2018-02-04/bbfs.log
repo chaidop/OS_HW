@@ -1,0 +1,138 @@
+
+bb_init()
+    conn:
+    proto_major = 7
+    proto_minor = 31
+    async_read = 1
+    max_write = 131072
+    max_readahead = 131072
+    capable = 00000ffb
+    want = 00000010
+    max_background = 0
+    congestion_threshold = 0
+    context:
+    fuse = 832ac780
+    uid = 0
+    gid = 0
+    pid = 0
+    private_data = 832ab2a0
+    logfile = 832ac2d0
+    rootdir = /home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir
+    umask = 00000
+
+bb_getattr(path="/", statbuf=0x055dac10)
+    bb_fullpath:  rootdir = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir/"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 286856
+    st_mode = 040775
+    st_nlink = 2
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 4096
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b271b3
+    st_mtime = 0x60b271b8
+    st_ctime = 0x60b271b8
+
+bb_getxattr(path = "/", name = "security.selinux", value = 0xf8000c30, size = 255)
+    bb_fullpath:  rootdir = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir/"
+    lgetxattr returned -1
+    ERROR lgetxattr: No data available
+
+bb_getxattr(path = "/", name = "system.posix_acl_access", value = 0x00000000, size = 0)
+    bb_fullpath:  rootdir = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir/"
+    lgetxattr returned -1
+    ERROR lgetxattr: No data available
+
+bb_getxattr(path = "/", name = "system.posix_acl_default", value = 0x00000000, size = 0)
+    bb_fullpath:  rootdir = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir/"
+    lgetxattr returned -1
+    ERROR lgetxattr: No data available
+
+bb_opendir(path="/", fi=0x055dac30)
+    bb_fullpath:  rootdir = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir/"
+    opendir returned 0x0x7fc1000020e0
+    fi:
+    flags = 0x00018800
+    fh_old = 0x00000000
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fc1000020e0
+    lock_owner = 0x0000000000000000
+
+bb_readdir(path="/", buf=0x00002060, filler=0x05823bc0, offset=0, fi=0x04db7c30)
+    readdir returned 0x0x7fc100002110
+calling filler with name ..
+calling filler with name bogus.txt
+calling filler with name .
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fc1000020e0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fc1000020e0
+    lock_owner = 0x0000000000000000
+
+bb_getattr(path="/bogus.txt", statbuf=0x055dac40)
+    bb_fullpath:  rootdir = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir", path = "/bogus.txt", fpath = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir/bogus.txt"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 272836
+    st_mode = 0100664
+    st_nlink = 1
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 11
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b271b6
+    st_mtime = 0x60b27194
+    st_ctime = 0x60b27194
+
+bb_getxattr(path = "/bogus.txt", name = "security.selinux", value = 0xf8000c30, size = 255)
+    bb_fullpath:  rootdir = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir", path = "/bogus.txt", fpath = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir/bogus.txt"
+    lgetxattr returned -1
+    ERROR lgetxattr: No data available
+
+bb_getxattr(path = "/bogus.txt", name = "system.posix_acl_access", value = 0x00000000, size = 0)
+    bb_fullpath:  rootdir = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir", path = "/bogus.txt", fpath = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir/bogus.txt"
+    lgetxattr returned -1
+    ERROR lgetxattr: No data available
+
+bb_releasedir(path="/", fi=0x055dac40)
+    fi:
+    flags = 0x00000000
+    fh_old = 0x7fc1000020e0
+    writepage = 0
+    direct_io = 0
+    keep_cache = 0
+    fh = 0x00007fc1000020e0
+    lock_owner = 0x0000000000000000
+
+bb_getattr(path="/", statbuf=0x04db7c10)
+    bb_fullpath:  rootdir = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir", path = "/", fpath = "/home/cpoulianou/fuse-tutorial-2018-02-04/example/rootdir/"
+    lstat returned 0
+    si:
+    st_dev = 64768
+    st_ino = 286856
+    st_mode = 040775
+    st_nlink = 2
+    st_uid = 1000
+    st_gid = 1000
+    st_rdev = 0
+    st_size = 4096
+    st_blksize = 4096
+    st_blocks = 8
+    st_atime = 0x60b27204
+    st_mtime = 0x60b271b8
+    st_ctime = 0x60b271b8
+
+bb_destroy(userdata=0x832ab2a0)

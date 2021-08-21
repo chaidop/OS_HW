@@ -1,0 +1,6 @@
+/usr/bin/ld: bbfs.o: in function `bb_write':
+/home/cpoulianou/fuse-tutorial-2018-02-04/src/bbfs.c:648: undefined reference to `SHA1'
+collect2: error: ld returned 1 exit status
+make[2]: *** [Makefile:357: bbfs] Error 1
+make[1]: *** [Makefile:261: all] Error 2
+make: *** [Makefile:340: all-recursive] Error 1
